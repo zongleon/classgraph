@@ -1,0 +1,1239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="description" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="AAAS184">
+      <data key="d0">Sansifanyi is an ensemble that provides various performance opportunities both on and off-campus for intermediate and advanced students of African dance &amp; drumming. Instructor Kerfala Bangoura trains ensemble members in a performance style that integrates dance, drumming, vocal song, and narrative elements. Dancers who enroll in Sansifanyi will learn choreographic techniques for West African dance and gain experience dancing as soloists. Dancers will also learn focus on rhythmic timing and on drumming while dancing. Drummers enrolled in Sansifanyi will learn extended percussion arrangements and techniques for accompanying choreography. They will also learn how to play the breaks required of lead drummers. Prerequisites: One of the following: DANC181 &amp; 182, DANC 283, DANC 253, DANC 285. For Drummers one of the following: MUSC 168A, MUSC 168B, MUSC 146 OR to audition, email kerfala.bangoura@gmail.com. </data>
+    </node>
+    <node id="DANC181" />
+    <node id="DANC182" />
+    <node id="DANC283" />
+    <node id="DANC253" />
+    <node id="DANC285" />
+    <node id="MUSC168A" />
+    <node id="MUSC168B" />
+    <node id="MUSC146" />
+    <node id="AAAS208">
+      <data key="d0">How is Latinx identity expressed? What historical events have marked its social and culturalarticulation? These questions will guide the work of this course, as we discuss the historical and contemporary discourses that have shaped the lives and sociopolitical agency of Latinxs in the United States. Departing from the Caribbean Philosophical Association’s mission of Shifting the Geography of Reason, we will explore the tensions and dynamics involved in Latinx author’s thought and cultural productions. Through the analysis of literary and philosophical texts, as well as historical data and policies, we will examine projects and practices that work towards the decolonization of Power, Being and Knowledge.  Course offered in English. May be taken for Spanish credit (if writing assignments done in Spanish; prerequisite for Spanish enrollment is SPAN 200)Readings may include works by Gloria Anzaldua, Nelson Maldonado-Torres, Valeria Luiselli, Eduardo Halfon, Elizabeth Acevedo, Gabby Rivera, María Lugones</data>
+    </node>
+    <node id="SPAN200" />
+    <node id="AAAS327">
+      <data key="d0">Sansifanyi offers experienced dancers the opportunity to study West African dance forms as well as studying cultural history and context from which and in which they are performed at a professional level. This course requires a high degree of student commitment. Dancers who enroll in Sansifanyi will learn choreographic techniques for West African dance and gain experience dancing as soloists. They will also focus on rhythmic timing, and on advanced skills such as how to combine movement with drumming. In addition to the time students spend in class, dancers in the ensemble are expected to spend several hours per week researching, reading, writing, viewing videos, text and article analysis, practicing, and choreographing various rhythms, songs, movements, and sequences. Dancers must also be available for performances both on and off campus throughout the semester.   Clusters: Improvisation and the Creative Process, Movement and Culture, Dance and Performance. Prerequisite: Audition on first day of class or for dancers, one of the following: DANC 181/182, DANC 283, DANC 253, DANC 285: For drummers one of the following: MUSC 168A, MUSC 168B, MUSC 146</data>
+    </node>
+    <node id="DANC 181" />
+    <node id="DANC 182" />
+    <node id="AHST199">
+      <data key="d0">This course examines the phenomenon of urbanism in the ancient Mediterranean world. After a brief consideration of the rise of cities in western Asia and Egypt, the course focuses on the cities and colonies of ancient Greece and of the Roman Empire, with special attention devoted to Athens and Rome. Topics covered include town planning, public and private spaces and building types, urban life, and colonization, as seen through the archaeological remains of cities located around the Mediterranean basin and beyond.  There are no prerequisites for this course.</data>
+    </node>
+    <node id="AHST225">
+      <data key="d0">This course examines the physical remains of ancient Greek civilization, with an emphasis on architecture, sculpture, painting, and other visual arts, in order to understand Greek culture and society. There are no prerequisites for this course.</data>
+    </node>
+    <node id="ANTH204">
+      <data key="d0">This course is a general inquiry into the practice of ethnography, including fieldwork and writing, carried out through a close reading of materials that investigate the role of the built environment in the production of power and inequality. This course has two aims. First, it will enable students to analyze and evaluate how anthropologists create ethnographic knowledge. Second, it will introduce students to urban anthropology and in particular, to scholarship which examines the politics of urban restructuring (including urban renewal, gentrification, urban violence, deindustrialization, and other topics). Reading ethnographies that document struggles over space in the US and abroad, we will investigate different constellations of power, inequality, and resistance - - and how anthropologists study them. Prerequisite: ANT 101 or permission of instructor.</data>
+    </node>
+    <node id="ANT101" />
+    <node id="ANTH315">
+      <data key="d0">Why do borders exist? How do they relate to other forms of social boundaries that pre-date the modern nation-state? Are borders likely to persist or disappear in the future?  This class will investigate the  anthropology of borders as a way to understand processes of social inclusion and exclusion in societies around the world.Prerequisite: ANTH 200</data>
+    </node>
+    <node id="ANTH200" />
+    <node id="ASLA106">
+      <data key="d0">The fourth in a sequence of courses, this course focuses on further development of conversational and narrative skills in ASL. Students will learn and expand different conversational strategies and increase ASL vocabulary. An introduction to analysis of grammatical principles and functions will be included. Appropriate cultural behaviors and conversational regulators in ASL will continue to be an important part of class. Experience with the local Deaf community is required. NOTE: MUST obtain permission code from ASL Program advisor to register for this course. ASLA Majors &amp; Minors will be permitted to register first. Prerequisites: ASLA 105 in the immediately preceding semester or permission of the instructor. B or better in ASLA 105</data>
+    </node>
+    <node id="ASLA105" />
+    <node id="ASLA200">
+      <data key="d0">An examination of signed languages and the cognitive constraints that shape them, through a detailed consideration of the structure of American Sign Language and other natural signed languages of the world. Includes training in sign language notation and analysis. Prerequisites: ASL 106 in the immediately preceding semester or permission of the instructor. B or better in ASL 106.</data>
+    </node>
+    <node id="ASL106" />
+    <node id="ASLA205">
+      <data key="d0">This course will explore the meaning of translation, practice various translation methods, and analyze both written English and recorded ASL texts, with a focus on the analysis of English texts and the development of ASL translations. Extensive discussion of various types of texts and the factors that must be considered when preparing an accurate ASL or English translation will contribute to students translation work. Satisfies the upper level writing requirement. Prerequisites: ASL 106 and either ASL ASL 113, 201 or 202 in the immediately preceding semester, or permission of the instructor. B or better in ASL 106.</data>
+    </node>
+    <node id="ASL113" />
+    <node id="ASL201" />
+    <node id="ASL202" />
+    <node id="ASLA209">
+      <data key="d0">This course is designed to provide hands-on experience in teaching different subjects in ASL and evaluating student competencies in ASL and to develop an understanding of current methods and theories regarding ASL as the classroom language. Students learn about the history of teaching and resources to support such efforts. Students are provided opportunities to practice basic teaching techniques and select appropriate materials to incorporate relevant cultural and grammatical features in their lessons. The course follows a seminar format and is highly interactive in nature to encourage discussions based on in-class lectures, assigned readings, and student teaching projects. Prerequisites: ASLA 106 in the immediately preceding semester or permission of the instructor. B or better in ASLA 106.</data>
+    </node>
+    <node id="ASLA250">
+      <data key="d0">A discussion and analysis of variation in ASL and its relation to variables of social situation and identity in American Deaf communities. Topics include theoretical and methodological concepts in sociolinguistics, levels of grammatical variation, and social variables such as region, identity, register and attitude. Research includes the language behavior of Deaf signers, children of deaf adults, third culture groups and the role of hearing L2 signers in the Deaf community. Prerequisites: ASLA 106 in the immediately preceding semester or permission of the instructor. B or better in ASLA 106.</data>
+    </node>
+    <node id="AME191">
+      <data key="d0">This course covers the fundamentals in becoming an audio engineer. Topics covered include: Acoustics, Psychoacoustics, Microphones, Signal Processing, Tape Recording, Digital Audio Theory, Signal Flow, Studio Etiquette, Digital Audio Workstations, Music Business, Recording Audio, and Mixing Audio. You do not need any previous experience in recording, however some familiarity with music and how it is created is needed.There are four group recording projects that make up the bulk of the course, each with their own guidelines and challenges. This course requires considerable time to be spent on projects outside of the lecture and lab times. The labs are required to take this course.First-year non-AME Major students are ineligible to take this course.Prerequisites: NoneINSTRUCTOR PERMISSION ONLY.</data>
+    </node>
+    <node id="AME192">
+      <data key="d0">This course builds on knowledge gained in AME191. Fundamental topics covered include Advanced Mixing and Mastering Techniques, Drum Replacement, Impulse Responses and Reverb, Advanced Concepts of Signal Processing, Analog Tape Recording, Music Business Ethics and Taxes, and Hybrid Analog/Digital Mixing Techniques.Emphasis is on the development of critical listening skills through ear training exercises and active listening assignments. These drills will develop your ability to hear width and depth in audio, mixing techniques in various musical genres, specific instruments used in a recording, and recognition of various effects including reverb, delay, compression, phasing and distortion.There are four group recording projects that make up the bulk of the course, each with their own guidelines and challenges. This course requires considerable time to be spent on projects outside of the lecture and lab times. The labs are required to take this course.Prerequisites: AME 191INSTRUCTOR PERMISSION ONLY.</data>
+    </node>
+    <node id="AME194">
+      <data key="d0">This course is intended to provide students with an understanding of the process and the skills for creating MUSIC for picture. The course emphasizes hands-on experience where students gain practical knowledge in scoring to picture using provided DAWs and Virtual Instruments. It features guest lectures by professional composers in the fields of TV, Film, Advertising, Gaming, and Animation, providing real world style assignments along with individual feedback for each student.Topics also include MIDI, creating drumbeats, music analysis and emulation, soft synthesizers, samplers, virtual instruments, recording and editing with Logic Pro, and working to picture. Students will complete numerous projects throughout the course.Prerequisites: AME 193, or a solid working knowledge of either Pro Tools or Logic Pro. Strong musical ability, basic keyboard proficiency.</data>
+    </node>
+    <node id="AME193" />
+    <node id="AME197">
+      <data key="d0">The course is intended to provide students a basic understanding of creating audio for gaming. The emphasis is on demonstrations and hands-on experience to enable students to gain a practical knowledge of the integration of sound and music into video games using middleware. Students will primarily work with Wwise, Reaper, Pro Tools, and Logic Pro X. The course will also feature guest lectures by industry leading professionals, who will share their experience and insights. For a final project, students will create their own music and sound for a provided game.Topics will include soundtrack composition for interactive; Advanced sound effect creation, foley, Dialog recording and editing, and working within a game environment. Supplementary software discussed will include FMod, Unreal, and Nuendo.Prerequisite: AME 193 &amp; 194, or a working knowledge of either Pro Tools, Logic Pro, or Reaper.</data>
+    </node>
+    <node id="AME233">
+      <data key="d0">Engineering aspects of acoustics. Review of oscillators, vibratory motion, the acoustic wave equation, reflection, transmission and absorption of sound, radiation and diffraction of acoustic waves. Resonators, hearing and speech, architectural and environmental acoustics. Prerequisites:Linear algebra and Differential Equations (MTH 165), and Physics (PHY 121) or equivalents.</data>
+    </node>
+    <node id="MTH165" />
+    <node id="PHY121" />
+    <node id="AME262">
+      <data key="d0">In this course, students will develop skills for designing audio/music applications and creating computer music in C and Max. We will begin with the history of computer music, a survey of audio programming languages, and a review of C. Libsndfile, a C library for reading and writing sound files, will be used to explore topics in sound synthesis, analysis, and digital signal processing. Students will use PortAudio, a C library for real-time audio input/output, to design DSP applications. Max is a visual programming language for interactive audio/music and multimedia. Students are required to watch pre-recorded lectures to learn Max and attend recitations for reviews. They will also practice their programming techniques through a series of programming assignments, a midterm drum machine project in Max, and a final research/design project.  Prerequisite: ECE114 or instructor permission</data>
+    </node>
+    <node id="ECE114" />
+    <node id="ASTR142">
+      <data key="d0">Application of the physics and math techniques learned in the introductory course sequences, to the study of celestial objects outside the Solar system. We discuss stars and their formation from interstellar matter, the structure of galaxies and their distribution in the Universe, and the origins and large-scale structure of the Universe: all topics that are developed much further in the AST 200-level courses. The course also includes a night-time observing project, based upon student use of professional-style telescopes and CCD cameras. Registration of recitation is required at the time of course registration. Typical textbook: Marck Kutner, 'Astronomy' A Physical Perspective,' second edition.Prerequisites: PHY 141-143 or PHY 121- 123 (PHY 123 may be taken concurrently); MTH 161-165 or MTH 171-174 (MTH 174 may be taken concurrently), or permission of instructor; AST 111 recommended but not required</data>
+    </node>
+    <node id="PHY141" />
+    <node id="PHY143" />
+    <node id="PHY123" />
+    <node id="MTH161" />
+    <node id="MTH171" />
+    <node id="MTH174" />
+    <node id="AST111" />
+    <node id="ASTR243">
+      <data key="d0">An Introduction to Astrophysical Fluid Dynamics. This class explores topics in astrophysics while giving a solid foundation in the fundamentals of fluid mechanics. We introduce the theory of the motion of gases and fluids necessary to understand and explore a wide range of astronomical phenomena including stellar structure, supernovae blast waves and accretion discs. We will cover ideal fluid mechanics, Eulerian and Lagrangian views, conservations laws, hydrostatic equilibrium, self-similar flows, blast waves, spherical accretion and wind flows, astrophysics shocks, viscous flows, vorticity, accretion disks, atmospheric waves, hydrodynamic instabilities, and radiative heating and cooling. We will introduce finite difference numerical techniques so that dynamics in 1 dimension can be explored numerically. At the end of the term we will explore topics of recent interest such as gamma ray bursts, astrophysical turbulence or winds from exoplanets.Prerequisites: PHY 237 (may be taken concurrently); familiarity with the subject matter of AST 142 and/or AST 111 is advised</data>
+    </node>
+    <node id="PHY237" />
+    <node id="AST142" />
+    <node id="BCSC110">
+      <data key="d0">Introduces the structure and organization of the brain, and its role in perception, movement, thinking, and other behavior. Topics include the brain as a special kind of computer, localization of function, effects of brain damage and disorders, differences between human and animal brains, sex differences, perception and control of movement, sleep, regulation of body states and emotions, and development and aging. No prerequisites.</data>
+    </node>
+    <node id="BCSC111">
+      <data key="d0">Introduces the organization of mental processes underlying cognition and behavior. Topics include perception, language, learning, memory, and intelligence. This course integrates knowledge of cognition generated from the field of cognitive psychology with findings from artificial intelligence and cognitive neuroscience. No prerequisites.</data>
+    </node>
+    <node id="BCSC153">
+      <data key="d0">Considers human cognitive processes, including behavioral, cognitive-neuroscientific, connectionist, and evolutionary approaches to the understanding of cognition. Explores how we perceive and integrate sensory information to build a coherent perception of the world. Includes topics on perception, attention, memory, language, cognitive development, and artificial intelligence.Prerequisites: BCS 111 required, BCS 110 recommended</data>
+    </node>
+    <node id="BCS111" />
+    <node id="BCS110" />
+    <node id="BCSC172">
+      <data key="d0">Introduces human development, focusing on the ability to perceive objects and sounds, to think and reason, and to learn and remember language and other significant patterned stimulation. Includes the nature and mechanisms of development in humans and an overview of what is known about brain and behavioral development in other species. No prerequisites.</data>
+    </node>
+    <node id="BCSC185">
+      <data key="d0">Social cognition combines classic social psychology with methods and theories from cognitive psychology and neuroscience to study how people make sense of each other and the social world. We will examine how the social environment influences cognitive processes such as attention, heuristics, and appraisals, and how these processes in turn affect decisions, behaviors, and health. We will critically evaluate research on a variety of topics, such as emotion regulation, stereotyping and prejudice, and stress and decision making.Prerequisite: PSYC 101 recommended</data>
+    </node>
+    <node id="PSYC101" />
+    <node id="BCSC203">
+      <data key="d0">Introduces the various methods used in neurobiological research. Covers anatomical, behavioral, molecular, and physiological approaches to studying neural organization and function and concludes with a research project that extends over a period of five weeks. STUDENTS MUST REGISTER FOR A WORKSHOP WHEN REGISTERING FOR THE MAIN SECTION.Prerequisites: NSCI 201/BCSC 240 with lab, and STAT 212</data>
+    </node>
+    <node id="NSCI201" />
+    <node id="BCSC240" />
+    <node id="STAT212" />
+    <node id="BCSC204">
+      <data key="d0">Introduces methods used in cognitive neuroscience, a field that examines cognitive phenomena in terms of their underpinnings in the brain. Covers brain imaging approaches to studying cognition. Provides hands-on knowledge for functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) experiment design and data analysis.Prerequisites: STAT 212 and BCSC 153.</data>
+    </node>
+    <node id="BCSC208">
+      <data key="d0">Introduces behavioral and psychophysical studies of perceptual and cognitive phenomena. Students perform, analyze, interpret, and report results from experiments that move from reproducing classic phenomena to conducting new studies independently.Prerequisites: STAT 212 and either BCSC 151 or BCSC 153</data>
+    </node>
+    <node id="BCSC151" />
+    <node id="BCSC221">
+      <data key="d0">This course considers how we comprehend the auditory environment. Topics include the physical stimulus for hearing, the physiology of the auditory system (both at the periphery and in the central nervous system), the psychophysics of basic auditory perception (e.g., hearing thresholds), higher level auditory perception (including auditory scene analysis and the perception of complex auditory events such as speech and music), and hearing disorders. Considers research from a diverse range of perspectives including behavioral research, cognitive neuroscience, studies of individual differences, and research that adopts a comparative perspective.Prerequisite: BCSC 110 or BCSC 111</data>
+    </node>
+    <node id="BCSC232">
+      <data key="d0">Introduces fundamental principles and techniques from Artificial Intelligence, including heuristic search, automated reasoning, handling uncertainty, and machine learning, to prepare students for advanced AI courses.Prerequisites: MATH 150 and CSC 172. CSC 173 STRONGLY recommended. AUDITS NOT ALLOWED.</data>
+    </node>
+    <node id="MATH150" />
+    <node id="CSC172">
+      <data key="d0">Abstract data types (e.g., sets, mappings, and graphs) and their implementation as concrete data structures in Java. Analysis of the running times of programs operating on such data structures, and basic techniques for program design, analysis, and proof of correctness (e.g., induction and recursion). Lab and workshop required. Prerequisites: CSC 171 or equivalent, MATH 150. May be taken concurrently with MATH 150 if CSC 171 prerequisite is satisfied.</data>
+    </node>
+    <node id="CSC173">
+      <data key="d0">An introduction to some of the most important formal models of computation, and their application to real-world computing problems.Prerequisites: CSC 172 and MTH 150. AUDITS NOT ALLOWED.</data>
+    </node>
+    <node id="BCSC235">
+      <data key="d0">This course addresses issues of representing computing meaning from natural language, especially issues of understanding language in context using commonsense knowledge of the world. Topics will include a survey of English phrase structure and parsing, semantic representation (e.g., events, semantic roles, time, causality and speech acts), and theories and techniques for understanding language in context, including intention recognition, text understanding using knowledge of scripts and plans, and models of spoken dialogue systems (e.g., conversational agents such as Siri). CSC447, the graduate level version of the course, requires a substantial individual project. Prerequisite: CSC 242</data>
+    </node>
+    <node id="CSC242">
+      <data key="d0">Introduces fundamental principles and techniques from Artificial Intelligence, including heuristic search, automated reasoning, handling uncertainty, and machine learning, to prepare students for advanced AI courses.Prerequisites: CSC 172 and MTH 150; CSC 173 STRONGLY Recommended. AUDITS NOT ALLOWED.</data>
+    </node>
+    <node id="BCSC236">
+      <data key="d0">Introduction to computer vision, including camera models, basic image processing, pattern and object recognition, and elements of human vision. Specific topics include geometric issues, statistical models, Hough transforms, color theory, texture, and optic flow. CSC 449, a graduate-level course, requires additional readings and assignments.Prerequisites: MATH 161 and CSC 242; MATH 165 strongly recommended or equivalent.</data>
+    </node>
+    <node id="MATH161" />
+    <node id="MATH165" />
+    <node id="BCSC244">
+      <data key="d0">Explores the neural basis of naturally occurring animal behaviors. Emphasizes how information is integrated from interactions between molecules, cells, and groups of cells, all of which are necessary to produce behavior. Considers how hormones, neural development, anatomy, physiology, and evolution lead to behaviors such as orientation, communication, feeding, and reproduction.Prerequisite: BCSC 240/NSCI 201</data>
+    </node>
+    <node id="BCSC246">
+      <data key="d0">Examines the neurobiology of anxiety/phobic conditions, mood disorders, and chronic psychotic states, particularly schizophrenia. Considers definitions of psychiatric syndromes, the problems of diagnosis, brain organization, and neurotransmitter systems involved in state functions. Introduces research approaches including epidemiologic, phenomenologic, family/adoption, longitudinal descriptive, psychophysiologic, neuropharmacologic, genetic linkage, and postmortem studies; emphasizes recent in vivo brain imaging and neuroreceptor studies.Prerequisite: NSCI 201/BCSC 240</data>
+    </node>
+    <node id="BCSC249">
+      <data key="d0">Advanced treatment of the development of the nervous system, including the nature/nurture issue and factors that influence the development of neural organization and function. Topics include the production, migration, differentiation and survival of neurons; functional specialization of neural regions; axonal navigation; target mapping. Compares and contrasts developmental plasticity with forms of neural plasticity exhibited in adults.Prerequisite: NSCI 201/BCSC 240</data>
+    </node>
+    <node id="BCSC250">
+      <data key="d0">This upper level elective course provides unique perspectives on the clinical diagnosis, prognosis, and treatment of acquired brain injuries and diseases, along with their epidemiology and basic research findings, including those gleaned from associated animal models. It is intended for highly motivated students in their senior year with a strong inclination toward medical school or other clinical practice. The student will learn about clinical diagnostic methods, practice differential diagnosis and treatment planning through simulated (virtual) cases, and shadow clinicians as part of this course. Students will also engage with primary research literature to understand underlying pathological mechanisms for diseases such as stroke, cancer, epilepsy as well as neuropathic pain and traumatic brain injury.Prerequisite: NSCI 201/BCSC 240</data>
+    </node>
+    <node id="BCSC252">
+      <data key="d0">This course examines the structure and function of the nervous system and considers the implications of relevant injuries and diseases. Learning objectives will be addressed through lectures, laboratories, discussions, and student presentations.Prerequisite: BIOL 110 or equivalent</data>
+    </node>
+    <node id="BIOL110">
+      <data key="d0">First semester in a course sequence for all biology majors. The course will provide an introduction to biochemistry, cell biology, molecular biology, and animal physiology. Emphasis will be placed on quantitative learning and data analysis. Weekly workshops will emphasize the construction and interpretation of graphs.Prerequisites: Completion or concurrent enrollment in CHM 131 or equivalent</data>
+    </node>
+    <node id="BCSC257">
+      <data key="d0">This is a seminar-style course for advanced undergraduate and graduate students covering multiple areas of computational neuroscience by weekly readings and student presentations. Many of the topics are deeper explorations of topics covered in BCSC 247 Introduction to Computational Neuroscience, focusing on the sensory system, decision-making, action selection and active inference, especially from a probabilistic and normative perspective. The reading list is somewhat flexible and adaptable to student interest. There is an opportunity for a final project but this is not required.Prerequisite: BCSC 247 or permission of instructor</data>
+    </node>
+    <node id="BCSC247" />
+    <node id="BCSC260">
+      <data key="d0">Introduction to the discipline of music cognition. Topics include empirical methods, psycho-acoustic principles, influence of Gestalt psychology, music and language, metric and tonal hierarchies, music and the brain, aspects of musical development, and research on musical memory, expectation, and emotion.Prerequisite: One semester of collegiate music theory (MUR 101, MUR 110, MUR 111 or TH 101), AP exam score of 4 or 5, or permission of instructor.</data>
+    </node>
+    <node id="MUR101" />
+    <node id="MUR110" />
+    <node id="MUR111" />
+    <node id="TH101" />
+    <node id="BCSC264">
+      <data key="d0">An examination of signed languages and the cognitive constraints that shape them, through a detailed consideration of the structure of American Sign Language and other natural signed languages of the world. Includes training in sign language notation and analysis. Prerequisites: ASL 106 in the immediately preceding semester or permission of the instructor. B or better in ASL 106.</data>
+    </node>
+    <node id="BCSC278">
+      <data key="d0">Human beings are fundamentally social animals equipped with a brilliant piece of social machinery: the brain. Through the workings of this elegant electrical and biological machine we are able to reason about other people’s unobservable thoughts, emotions, and intentions, make moral judgments, and communicate with others. How does the brain develop the ability to accomplish these tasks? What regions of the brain are involved and what computations do they perform? How is this neural machinery affected by the social environment and psychiatric illness? In this course, we will examine the latest research in human social neuroscience towards answering these and related questions.This is a social science course.Prerequisites: PSYC 101 or BCSC 110</data>
+    </node>
+    <node id="BCSC435">
+      <data key="d0">This course addresses issues of representing computing meaning from natural language, especially issues of understanding language in context using commonsense knowledge of the world. Topics will include a survey of English phrase structure and parsing, semantic representation (e.g., events, semantic roles, time, causality and speech acts), and theories and techniques for understanding language in context, including intention recognition, text understanding using knowledge of scripts and plans, and models of spoken dialogue systems (e.g., conversational agents such as Siri). CSC447, the graduate level version of the course, requires a substantial individual project. Prerequisite: CSC 242</data>
+    </node>
+    <node id="BCSC536">
+      <data key="d0">Introduction to computer vision, including camera models, basic image processing, pattern and object recognition, and elements of human vision. Specific topics include geometric issues, statistical models, Hough transforms, color theory, texture, and optic flow. CSC 449, a graduate-level course, requires additional readings and assignments. Prerequisites: MATH 161 and CSC 242; MATH 165 strongly recommended or equivalent.</data>
+    </node>
+    <node id="BCSC546">
+      <data key="d0">Examines the neurobiology of anxiety/phobic conditions, mood disorders, and chronic psychotic states, particularly schizophrenia. Considers definitions of psychiatric syndromes, the problems of diagnosis, brain organization, and neurotransmitter systems involved in state functions. Introduces research approaches including epidemiologic, phenomenologic, family/adoption, longitudinal descriptive, psychophysiologic, neuropharmacologic, genetic linkage, and postmortem studies; emphasizes recent in vivo brain imaging and neuroreceptor studies.Prerequisite: NSCI 201/BCSC 240</data>
+    </node>
+    <node id="BCSC557">
+      <data key="d0">This is a seminar-style course for advanced undergraduate and graduate students covering multiple areas of computational neuroscience by weekly readings and student presentations. Many of the topics are deeper explorations of topics covered in BCSC 547 Introduction to Computational Neuroscience, focusing on the sensory system, decision-making, action selection and active inference, especially from a probabilistic and normative perspective. The reading list is somewhat flexible and adaptable to student interest. There is an opportunity for a final project but this is not required.Prerequisite: BCSC 547 or permission of instructor</data>
+    </node>
+    <node id="BCSC547" />
+    <node id="BCSC564">
+      <data key="d0">An examination of signed languages and the cognitive constraints that shape them, through a detailed consideration of the structure of American Sign Language and other natural signed languages of the world. Includes training in sign language notation and analysis. Prerequisites: ASL 106 in the immediately preceding semester or permission of the instructor. B or better in ASL 106.</data>
+    </node>
+    <node id="BCSC571">
+      <data key="d0">This is the second course offered as part of the PhD training program on augmented and virtual reality. It builds on the first course, Introduction to Augmented and Virtual Reality (AR/VR). The goal of the course is to provide exposure to problems in the AR/VR domain addressed by various disciplines. The course consists of three one-month long modules in a semester. Modules engage students in particular aspects of AR/VR or hands-on experience on AR/VR. Modules to be offered in various years include: fundamentals of optics for AR/VR; AR/VR in the silicon; foundations of visual perception in the context of AR/VR; computer audition and acoustic rendering; measuring the human brain; deep learning and visual recognition for AR/VR; brain-computer interfacing in a virtual environment; 3D interfaces and interaction; AR/VR for collaborative education &amp; professional training. In Spring 2023, the following three modules will be offered: 1) Deep learning and visual recognition for AR/VR. (Prof. Chenliang Xu) Recent developments in deep learning have significantly advanced state-of-the-art visual recognition in problems such as object detection, activity recognition, and semantic segmentation. In this module, students will learn core concepts in deep learning, including convolutional neural networks and recurrent neural networks. They will receive hands-on experience using popular deep-learning libraries like PyTorch to build visual recognition algorithms for AR/VR systems. 2) Measuring the human brain. (Prof. Ross Maddox) This module will introduce students to studies of human brain function using non-invasive methods. It will focus on experimental paradigms and data analysis in the time and frequency domains. Neural encoding and decoding models and applications to brain-computer interfaces will also be discussed. The module will have a mixed format, with lectures and labs. Lab exercises will be based on analyzing real data from human subjects. 3) Professional encounters with leading AR/VR researchers. This module will involve a series of seminars and discussion sessions with leading AR/VR researchers from academia and industry. Prerequisites: ECE 410 or OPT 410 or BME 410 or NSCI 415 or CSC 413 or CVSC 534INSTRUCTORS: Chenliang Xu; Ross Maddox; Mujdat Cetin</data>
+    </node>
+    <node id="ECE410" />
+    <node id="OPT410" />
+    <node id="BME410" />
+    <node id="NSCI415" />
+    <node id="CSC413" />
+    <node id="CHM131" />
+    <node id="BIOL205">
+      <data key="d0">History of evolutionary thought; genetics of populations; phylogenetic reconstruction; origin and history of life; evolution of social behavior and species interactions; mechanisms of speciation; human evolution. Students must also sign up for a recitation when registering for the lecture.Prerequisites: A year of introductory biology and facility in precalculus mathematics.  BIO 190 or BIO 198 strongly recommended.</data>
+    </node>
+    <node id="BIO190" />
+    <node id="BIO198" />
+    <node id="BIOL205W">
+      <data key="d0">Students will lead a discussion on a primary research article in evolutionary biology, and write a summary of the article for a non-specialist audience, with multiple rounds of feedback (including peer feedback) and revision. Course will meet most, but not all, Fridays.Prerequisites: Prior or concurrent enrollment in BIOL 205 </data>
+    </node>
+    <node id="BIOL210">
+      <data key="d0">An intermediate-level course that covers fundamental cell processes at the molecular level. Topics include organelle structure and functions, membrane biogenesis, cytoskeleton, cell signaling, cell cycle growth, and death.Prerequisites: BIO 110 or 112 and BIO 111 or 113. BIO 198 or BIO 190 and BIO 250 are strongly suggested.</data>
+    </node>
+    <node id="BIO110" />
+    <node id="BIO112" />
+    <node id="BIO111" />
+    <node id="BIO113" />
+    <node id="BIO250" />
+    <node id="BIOL217L">
+      <data key="d0">This course focuses on the structures of the body with a special emphasis on humans. Topics include the integumentary, skeletal, muscular, endocrine, nervous, cardiovascular, respiratory, renal, digestive, and reproductive systems. Students must register for lab. The lecture portion of the course uses the same textbook as BIO 204 (Human Physiology) and an additional laboratory manual. STUDENTS CANNOT RECEIVE CREDIT FOR BIO 217 AND BME 258.Prerequisites: Two semesters of introductory biology e.g. BIO 110 or BIO 112 and BIO 111 or BIO 113 or permission of instructorEligibility Rule: Not open to first year students - ASE</data>
+    </node>
+    <node id="BIOL219L">
+      <data key="d0">Human body size, behavior and many diseases are quantitative traits; they vary continuously and are determined by a large number of genes. The study of quantitative traits can provide insights into the genes underlying disease and how species have evolved. This course will cover the identification and analysis of genes affecting quantitative traits and the evolutionary forces that influence genes and genomes in animal model systems. These studies are increasingly being used in humans and are the future of modern medicine. The lab component will provide students a hands-on introduction to the computational methods. Labs will be primarily conducted using R.Prerequisites: BIO 190 OR 198, BIO 214 OR EQUIVALENT</data>
+    </node>
+    <node id="OR198" />
+    <node id="BIO214" />
+    <node id="BIOL243">
+      <data key="d0">This advanced course examines mechanisms of chromatin-mediated regulation of the eukaryotic genomes, gene expression, relating molecular structures, dynamic interactions, nuclear processes, 3-D nuclear organization to biological functions. Topics include DNA structures, packaging and higher order chromatin organization in the nucleus, the transcription machinery, eukaryotic chromosome structure and its modifications, epigenetics and functional genomics, dynamics of nuclear processes, nuclear reprogramming, development and applications of genome manipulation technology. Lectures and readings draw heavily on primary literature both classic and most recent.Prerequisites: BIO 198, Genetics, BIO 250/250H, Biochemistry; good knowledge of Molecular Biology. Cell Biology and/or Developmental Biology recommended.</data>
+    </node>
+    <node id="250H" />
+    <node id="BIOL250">
+      <data key="d0">Fundamental aspects of biochemistry, including biomolecular structure and catalysis, bioenergetics, protein folding, kinetic analysis of enzyme action and general intermediary metabolism. In addition to lecture, the course will include a weekly workshop lab that integrates discussion with experimental procedures.The optional companion lab for this course is BIOl 250P. Prerequisites: BIOL 110 or BIOL 112 and CHEM 203Biological Science Majors: Prior or Concurrent enrollment in BIOL 190/198 and CHEM 204 are strongly recommended.Post-baccalaureate Pre-health students: BIOL 190/198 are not required.</data>
+    </node>
+    <node id="BIOL112" />
+    <node id="BIOL190" />
+    <node id="BIOL198" />
+    <node id="CHEM204">
+      <data key="d0">(4 credits, Spring) A continuation of a two-semester sequence in the study of organic chemistry. Topics covered include the reactivity of various functional groups, approaches to organic synthesis, reactivity of conjugated systems and molecules of biological significance. There are three 50-minute lectures per week and one workshop. Co-registration REQUIRED in the accompanying laboratory course, CHEM 208. Alternatively, CHEM210W a 2 credit lab is recommended for chemistry majors { not offered in summer}. Lab fee of $136 will be billed by the Bursar's Office. Prerequisite: Grade of C- or better in CHM 203 or equivalent. This course uses the Tues/Thurs 8:00 am - 9:30 am common exam time.</data>
+    </node>
+    <node id="BIOL252">
+      <data key="d0">Chemistry and structure of biological macromolecules. Topics include protein structure, enzyme catalysis and kinetics, metabolism, bioenergetics, biochemical techniques and mathematical modeling of biochemical processes. Includes discussions of primary literature, and history of important biochemical discoveries. Includes weekly workshops. The optional companion lab for this course is BIOL 250P. Required for BBC majors. Prerequisites: BIOL 110 or BIOL 112, BIOL 190 or 198, CHEM 203, prior or concurrent enrollment in CHEM 204 or CHEM 172. </data>
+    </node>
+    <node id="CHEM203" />
+    <node id="CHEM172">
+      <data key="d0">CHEM 172 is the second semester of a one-year exploration of the fundamental concepts, principles, and practices of organic chemistry, with a focus on defining relationships between molecular structure, reactivity, and function. You (the student) will take an active role in defining questions, evaluating evidence, weighing arguments, developing and testing hypotheses, and communicating these complex topics. This study of organic chemistry will be integrated with a review of the key concepts from general chemistry and will highlight relationships with related areas including organometallic chemistry, polymer chemistry, and biochemistry. The CHEM171/172 sequence is designed for first-year students with good preparation in chemistry (2 years of general chemistry and an AP score of 4 or 5, or equivalent). This sequence provides a fast-track to advanced chemistry courses and the fulfillment of degree requirements in other disciplines. Co-registration in a workshop section is required. Co-registration in the accompanying lab—CHEM208 or CHEM210(W)—is strongly encouraged; CHM210W is recommended for CHEM majors. $134 lab fee billed by Bursar Office. Prerequisites: CHEM 171 and CHEM 173.</data>
+    </node>
+    <node id="BIOL263">
+      <data key="d0">A survey of adaptations to the physical environment, dynamics of natural populations, interactions between species, and ecosystem function.Prerequisites for taking the course include two semesters of Introductory Biology Courses (i.e., BIOL 110L or 112L, plus BIOL 111L OR 113L) and MTH 142 or MTH 161.</data>
+    </node>
+    <node id="BIOL110L" />
+    <node id="112L" />
+    <node id="BIOL111L" />
+    <node id="OR113L" />
+    <node id="MTH142" />
+    <node id="BIOL263W">
+      <data key="d0">Optional Upper-Level Writing Course for BIOL 263Prerequisites: Must be currently enrolled in BIOL 263</data>
+    </node>
+    <node id="BIOL268">
+      <data key="d0">This course is designed to provide (1) introduction to model organisms (2) training in specific methods used in molecular, cell and developmental biology research, with emphasis on data acquisition and analysis (3) experience in the design and execution of experiments, reading and writing scientific reports, and public scientific presentation.Prerequisites: Completion of biology and chemistry core requirements, as well as BIO 198 or BIO 190 and BIO 250 required</data>
+    </node>
+    <node id="BIOL272W">
+      <data key="d0">This interactive course teaches 'real life' communication skills and strategies that help students present their best professional selves and develop a fulfilling career. Students will explore and articulate their internship, career and graduate school goals for distinct audiences and purposes as they develop a professional communication portfolio of materials such as resumes, cover letters, statements of purpose, electronic communications, elevator pitches, project descriptions and abstracts, and online profiles (i.e., LinkedIn). Students will revise and refine their written and spoken work across the semester based on feedback from peers, instructors, and alumni. By the semester's end, students will have gained extensive experience with the communication skills expected in today's competitive environment. The class is suitable for juniors and seniors and can be used to fulfill 1 of the 2 required Upper-Level Writing experiences in biology or public health. NOTE: every other class will take place online. Courses in the WRTG 27X series may not be taken more than once for credit.Prerequisite: Completion of the Primary Writing Requirement</data>
+    </node>
+    <node id="BIOL274W">
+      <data key="d0">Drawing on the concepts of discourse community and rhetorical genre analysis (e.g., Bazerman, Berkenhotter &amp; Huckin, Swales), this course investigates ways of understanding the choices writers make when communicating about the natural, social, or applied sciences, with the goal of better understanding how to read and write as an ‘insider’ in your chosen discipline. You will develop a technical vocabulary and set of skills that allow you to describe recurring patterns and writer choices within those patterns. Using these tools, and talking to experts in your chosen discipline(s), you will investigate disciplinary and interdisciplinary boundaries, how writers convey meaning in different situations, and why they make the writing choices they do. Through a final research project of your choice, you will practice using what you have learned to communicate the results of your own research. This course is especially suitable for dual-major students, or those heading to graduate or health professions schools. Prerequisite: Completion of the Primary Writing Requirement Courses in the WRTG 27X series may not be taken more than once for credit.</data>
+    </node>
+    <node id="BIOL278">
+      <data key="d0">This interactive course explores the molecular mechanisms of important cellular processes. Topics include DNA replication, RNA processing, translation, protein folding, protein degradation, protein transport and metabolism. Foundational experiments that have led to our current understanding of these processes will be explored through readings and discussions of original scientific papers. Co-registration in a 278 Recitation on Friday from 9:00-10:15 is required.Prerequisites: BIO 190/198, BIO 250L, and CHM 204</data>
+    </node>
+    <node id="BIO250L" />
+    <node id="CHM204" />
+    <node id="BIOL405">
+      <data key="d0">History of evolutionary thought; genetics of populations; phylogenetic reconstruction; origin and history of life; evolution of social behavior and species interactions; mechanisms of speciation; human evolution. Students must also sign up for a recitation when registering for the lecture.Prerequisites: A year of introductory biology and facility in precalculus mathematics.  BIO 190 or BIO 198 strongly recommended.</data>
+    </node>
+    <node id="BIOL419L">
+      <data key="d0">Human body size, behavior and many diseases are quantitative traits; they vary continuously and are determined by a large number of genes. The study of quantitative traits can provide insights into the genes underlying disease and how species have evolved. This course will cover the identification and analysis of genes affecting quantitative traits and the evolutionary forces that influence genes and genomes in animal model systems. These studies are increasingly being used in humans and are the future of modern medicine. The lab component will provide students a hands-on introduction to the computational methods. Labs will be primarily conducted using R.Prerequisites: BIO 190 OR 198, BIO 214 OR EQUIVALENT </data>
+    </node>
+    <node id="BIOL443">
+      <data key="d0">This advanced course examines mechanisms of chromatin-mediated regulation of the eukaryotic genomes, gene expression, relating molecular structures, dynamic interactions, nuclear processes, 3-D nuclear organization to biological functions. Topics include DNA structures, packaging and higher order chromatin organization in the nucleus, the transcription machinery, eukaryotic chromosome structure and its modifications, epigenetics and functional genomics, dynamics of nuclear processes, nuclear reprogramming, development and applications of genome manipulation technology. Lectures and readings draw heavily on primary literature both classic and most recent.Prerequisites: BIO 198, Genetics, BIO 250/250H, Biochemistry; good knowledge of Molecular Biology. Cell Biology and/or Developmental Biology recommended.</data>
+    </node>
+    <node id="BIOL463">
+      <data key="d0">A survey of adaptations to the physical environment, dynamics of natural populations, interactions between species, and ecosystem function.Prerequisites: BIO 111 or 113 and MTH 142 or MTH 161</data>
+    </node>
+    <node id="BIOL468">
+      <data key="d0">This course is designed to provide (1) introduction to model organisms (2) training in specific methods used in molecular, cell and developmental biology research, with emphasis on data acquisition and analysis (3) experience in the design and execution of experiments, reading and writing scientific reports, and public scientific presentation.Prerequisites: Completion of biology and chemistry core requirements, as well as BIO 198 or BIO 190 and BIO 250 required</data>
+    </node>
+    <node id="BIOL478">
+      <data key="d0">This interactive course explores the molecular mechanisms of important cellular processes. Topics include DNA replication, RNA processing, translation, protein folding, protein degradation, protein transport and metabolism. Foundational experiments that have led to our current understanding of these processes will be explored through readings and discussions of original scientific papers.Prerequisites: BIO 190/198, BIO 250L, and CHM 204</data>
+    </node>
+    <node id="BME210">
+      <data key="d0">Introduction to electrical circuit theory. Examples will include bioelectric systems and signals and models of biological systems. MUST REGISTER FOR LAB WHEN REGISTERING FOR MAIN COURSE. Prerequisites: PHYS 122, MATH 162, BME 201P, MATH 165 may be a co-requisite. </data>
+    </node>
+    <node id="PHYS122" />
+    <node id="MATH162" />
+    <node id="BME201P" />
+    <node id="BME212">
+      <data key="d0">Viscoelastic materials have the capacity to both store and dissipate energy. As a result, properly describing their mechanical behavior lies outside the scope of both solid mechanics and fluid mechanics. This course will develop constitutive relations and strategies for solving boundary value problems in linear viscoelastic materials. In addition, the closely-related biphasic theory for fluid-filled porous solids will be introduced. An emphasis will be placed on applications to cartilage, tendon, ligament, muscle, blood vessels, and other biological tissues. Advanced topics including non-linear viscoelasticity, composite viscoelasticity and physical mechanisms of viscoelasticity will be surveyed. Prerequisites: ME225 or CHE243; ME226 or BME201</data>
+    </node>
+    <node id="ME225" />
+    <node id="CHE243" />
+    <node id="ME226" />
+    <node id="BME201" />
+    <node id="BME221">
+      <data key="d0">The application of numerical and statistical methods to model biological systems and interpret biological data, using the MATLAB programming language. Prerequisites: BME201, BME201P or permission of instructor.</data>
+    </node>
+    <node id="BME245">
+      <data key="d0">This course provides a background in biomaterials: basic material properties, specifics on ceramics, polymers and metals used in the body, and special topics related to biomaterials including tissue engineering, biological responses to implanted materials, and drug delivery. You must register for a lab section (BME099) when registering for this course. BME099 will be a shared lab time with BME221. If you are co-enrolled in BME245 and BME221, please register for only one section of BME099.4 credits. Prerequisites: CHEM131, CHEM132, PHYS121, PHYS122, MATH161, MATH162, Biomechanics and BIOL110 or Permission of Instructor.</data>
+    </node>
+    <node id="CHEM131" />
+    <node id="CHEM132">
+      <data key="d0">(5 credits) A continuation of Chemical Concepts, Systems and Practices I, emphasizing molecular and macroscopic approaches to chemical systems with a focus on sustainability and environmental issues. Topics covered include: Chemical kinetics, electrochemistry, thermodynamics, properties of atoms, atomic structure, and chemical bonding. You must register for a lab lecture and laboratory (linked) when registering for the main course. Workshops are offered at multiple times during the week and assigned during the first week of classes. Lab fee of $134 will be billed by the Bursar's Office. This course uses the T/TR 8:00 am - 9:30 am common exam time. Prerequisite: CHEM 131 or equivalent.</data>
+    </node>
+    <node id="PHYS121" />
+    <node id="BME258">
+      <data key="d0">This course analyzes the structural composition of the human body from cellular to organ system levels. The goal is to provide a foundation in human anatomy appropriate for students interested in the bioscience and health care professions (e.g. nursing, physical therapy, medicine, bioengineering). Learning objectives will be achieved through a combination of lecture and hands-on (laboratory) approaches, reinforced by clinical examples. Students MUST REGISTER for BOTH the Lecture and Lab components of the course. Prerequisites: BIOL110 or equivalent. Not open to First Year students.</data>
+    </node>
+    <node id="BME262">
+      <data key="d0">This course teaches the principles of modern cell and tissue engineering with a focus on understanding and manipulating the interactions between cells and their environment. After a brief overview of Cell and Tissue Engineering, the course covers 5 areas of the field. These are: 1) Physiology for Tissue Engineering; 2) Bioreactors and Biomolecule Production; 3) Materials for Tissue Engineering; 4) Cell Cultures and Bioreactors and 5) Drug Delivery and Drug Discovery. Within each of these topics the emphasis is on analytical skills and instructors will assume knowledge of chemistry, mass transfer, fluid mechanics, thermodynamics and physiology consistent with the Cell and Tissue Engineering Track in BME. In a term project, students must present written and oral reports on a developing or existing application of Cell and Tissue Engineering. The reports must address the technology behind the application, the clinical need and any ethical implications. YOUR MUST REGISTER FOR A RECITATION AND A LAB WHEN REGISTERING FOR THE MAIN COURSE. Prerequisites: BME260, CHE225 (OR ME123) CHE244 and one of the following Cell Biology courses: BME211, BME411, BIOL202, BIOL210 or Permission of Instructor.</data>
+    </node>
+    <node id="BME260" />
+    <node id="CHE225" />
+    <node id="ME123" />
+    <node id="CHE244" />
+    <node id="BME211" />
+    <node id="BME411" />
+    <node id="BIOL202" />
+    <node id="BME270">
+      <data key="d0">This course covers the principles and practice of light microscopy as applied to biological and medical questions. Topics include basic light microscopy, DIC, phase epifluorescence, confocal and multiphoton laser-scanning microscopy, and selected methods such as CARS, FRET, FRAP, FCS, etc. Prerequisites: PHYS122 or permission of instructor.</data>
+    </node>
+    <node id="BME272">
+      <data key="d0">This course will review the engineering of optical system for biomedical microscopy by exploring widely used biomedical imaging systems such as confocal microscopy, multiphoton microscopy and optical coherent tomography among others. These techniques will be introduced in the context of the imaging problems they solve with a goal of giving students a broad, undergraduate level understanding of the constraints and solutions to biomedical microscopy. The graduate version of this course will include additional assignments and be appropriate for graduate students starting out in biomedical optics. Prerequisites: OPT261 and BME270 or permission of instructor.</data>
+    </node>
+    <node id="OPT261" />
+    <node id="BME296">
+      <data key="d0">Senior capstone design course in the Biomedical Engineering Program. Students work in teams to design, build, and test a medical device or instrument for a faculty, community or industrial sponsor. Accompanying lectures and discussions introduce issues related to ethics, economics, project management, regulation, safety, and reliability. Students will work in teams to design, build and test a prototype medical device, and document their activities through a variety of reports and presentations. Prerequisites: Math, science, and engineering courses appropriate for 4th-year students in BME; BME295, BME260. Open ONLY to BME Senior majors or Permission of Instructor.</data>
+    </node>
+    <node id="BME295" />
+    <node id="BME404">
+      <data key="d0">The course deals with computational methods to analytically intractable mathematical problems in biological research. For the first half of the course, general numerical analysis topics are reviewed such as linear algebra, ODE and PDE. Through homework assignments, students write their own computer code. Sufficient sample solutions are given to practice various numerical methods within limited time. The rest of the course is comprised of case studies and projects. Examples of computational analyses are drawn from life science problems such as biodynamics of human loco motion, ion channel kinetics, ionic diffusion, and finite element analysis of cells/tissues. For final project, students bring their own research problems, express them in mathematical equations, solve them using custom written computer programs and interpret the solutions. Prerequisites: Fundamental linear algebra, ordinary differential equations, some experience with MatLAB.</data>
+    </node>
+    <node id="BME412">
+      <data key="d0">Viscoelastic materials have the capacity to both store and dissipate energy. As a result, properly describing their mechanical behavior lies outside the scope of both solid mechanics and fluid mechanics. This course will develop constitutive relations and strategies for solving boundary value problems in linear viscoelastic materials. In addition, the closely-related biphasic theory for fluid-filled porous solids will be introduced. An emphasis will be placed on applications to cartilage, tendon, ligament, muscle, blood vessels, and other biological tissues. Advanced topics including non-linear viscoelasticity, composite viscoelasticity and physical mechanisms of viscoelasticity will be surveyed. Preerequisites: ME225 or CHE243; ME226 or BME201</data>
+    </node>
+    <node id="BME413">
+      <data key="d0">This is the second course offered as part of the PhD training program on augmented and virtual reality. It builds on the first course, Introduction to Augmented and Virtual Reality (AR/VR). The goal of the course is to provide exposure to problems in the AR/VR domain addressed by various disciplines. The course consists of three one-month long modules in a semester. Modules engage students in particular aspects of AR/VR or hands-on experience on AR/VR. Modules to be offered in various years include: fundamentals of optics for AR/VR; AR/VR in the silicon; foundations of visual perception in the context of AR/VR; computer audition and acoustic rendering; measuring the human brain; deep learning and visual recognition for AR/VR; brain-computer interfacing in a virtual environment; 3D interfaces and interaction; AR/VR for collaborative education &amp; professional training. In Spring 2023, the following three modules will be offered: 1) Deep learning and visual recognition for AR/VR. (Prof. Chenliang Xu) Recent developments in deep learning have significantly advanced state-of-the-art visual recognition in problems such as object detection, activity recognition, and semantic segmentation. In this module, students will learn core concepts in deep learning, including convolutional neural networks and recurrent neural networks. They will receive hands-on experience using popular deep-learning libraries like PyTorch to build visual recognition algorithms for AR/VR systems. 2) Measuring the human brain. (Prof. Ross Maddox) This module will introduce students to studies of human brain function using non-invasive methods. It will focus on experimental paradigms and data analysis in the time and frequency domains. Neural encoding and decoding models and applications to brain-computer interfaces will also be discussed. The module will have a mixed format, with lectures and labs. Lab exercises will be based on analyzing real data from human subjects. 3) Professional encounters with leading AR/VR researchers. This module will involve a series of seminars and discussion sessions with leading AR/VR researchers from academia and industry. Prerequisites: ECE 410 or OPT 410 or BME 410 or NSCI 415 or CSC 413 or CVSC 534INSTRUCTORS:  Chenliang Xu; Ross Maddox; Mujdat Cetin</data>
+    </node>
+    <node id="BME415">
+      <data key="d0">This class examines the structure, function, and vulnerability of the visual, auditory, vestibular, somatosensory, and motor systems, and explores how neuroprosthetics may ameliorate damage to these systems. Learning objectives will be addressed through lectures, journal article discussions, online discussions, case studies, and student presentations. Prior study in neuroscience is helpful but not required. Prerequisites: Any introductory Biology course. Undergraduates allowed with permission of instructor.</data>
+    </node>
+    <node id="BME438">
+      <data key="d0">Concepts, tools and techniques for quality engineering in product design and statistical process control, including design of experiments, RCA, FMEA and measurement systems. Class meets January 11 - March 15, 2023. Prerequisite: Basic understanding of statistical methods. </data>
+    </node>
+    <node id="BME459">
+      <data key="d0">This course analyzes the structural composition of the human body from cellular to organ levels. The goal is to provide a foundation in human anatomy appropriate for students interested in the bioscience and health care professions (e.g. nursing, physical therapy, medicine, bioengineering). Learning objectives will be achieved through a combination of lecture and hands-on (laboratory) approaches, reinforced by clinical examples and analysis of how biomedical devices interface with anatomical structures. In addition, students will participate in small group discussions of clinical case studies, make group presentations of topic appropriate biomedical devices, and prepare a term paper on the subject of their choice selected from a list of topics generated by the instructor. Prerequisite: Any introductory biology course.</data>
+    </node>
+    <node id="BME462">
+      <data key="d0">This course teaches the principles of modern cell and tissue engineering with a focus on understanding and manipulating the interactions between cells and their environment. After a brief overview of Cell and Tissue Engineering, the course covers 5 areas of the field. These are: 1) Physiology for Tissue Engineering; 2) Bioreactors and biomolecule production; 3) Materials for Tissue Engineering; 4) Cell Cultures and bioreactors and 5) Drug Delivery and Drug Discovery. Within each of these topics the emphasis is on analytical skills and instructors will assume knowledge of chemistry, mass transfer, fluid mechanics, thermodynamics and physiology consistent with the Cell and Tissue Engineering Track in BME. In a term project, graduate students must identify a technological need and present orally and in writing a proposal to meet the need. Must register for LAB and REC when registering for course. Prerequisites: BME 260, CHE225 (or ME123), CHE243 (or ME225), CHE244 and one of the following Cell Biology courses: BME211, BME411, BIO202 or BIO210; or permission of instructor.</data>
+    </node>
+    <node id="BIO202" />
+    <node id="BIO210" />
+    <node id="BME472">
+      <data key="d0">This course will review the engineering of optical system for biomedical microscopy by exploring widely used biomedical imaging systems such as confocal microscopy, multiphoton microscopy and optical coherent tomography among others. These techniques will be introduced in the context of the imaging problems they solve with a goal of giving students a broad, undergraduate level understanding of the constraints and solutions to biomedical microscopy. The graduate version of this course will include additional assignments and be appropriate for graduate students starting out inbiomedical optics. Prerequisites: OPT261 and BME270.</data>
+    </node>
+    <node id="CASC010">
+      <data key="d0">Writing Workshop offers practice and instruction with current student writing projects. Students meet weekly with their instructor to work different forms of academic writing relevant to their spring coursework–writings may include summaries, critical responses, argumentative essays, and lab reports. Students may also choose to revise writings completed in previous semesters or work on other writing projects such as school, internship, or job applications.Prerequisites:  TUP Program permission required.</data>
+    </node>
+    <node id="CASC016">
+      <data key="d0">Communication Workshop II offers continued practice and instruction with a variety of academic and professional forms of spoken communication such as practice with group discussion, interviews, meeting with instructors, and other campus community interactions that students may encounter.Prerequisites:  TUP Program permission required.</data>
+    </node>
+    <node id="CASC312">
+      <data key="d0">This course is required for all new Tutors. Participating students are provided with research-based guidance about successful peer instruction, including a survey of the fundamental principles in peer education. Tutors will learn how to use CETL's online scheduling system, connect with students in their near-peer leadership role, offer feedback and advice in a non-judgmental way, and engage students in productive self-management strategies. There are no prerequisites for this course, though permission from the instructors is required to enroll.</data>
+    </node>
+    <node id="CHEM171" />
+    <node id="CHEM173" />
+    <node id="CHM203" />
+    <node id="CHEM208">
+      <data key="d0">(1 credit, spring) A continuation of the laboratory sequence begun in CHM 207 with two components. The one credit laboratory section meets once each week for 2 hours and 40 minutes. In addition, the lab-lecture meets once each week for 50 minutes. Chemistry majors should take CHM 210, a 2 credit laboratory course. $136 lab fee will be billed. Prerequisites: CHEM 207 or CHEM 173; co-registration in CHEM 172 or CHEM 204. (Tuesday CHM 208 Lab Lecture requires Instructor permission)</data>
+    </node>
+    <node id="CHEM207" />
+    <node id="CHM208" />
+    <node id="CHEM210W">
+      <data key="d0">(2 credits, Spring) This laboratory is recommended for CHM majors. It is part of the requirements for a chemistry BS degree, and may be used as one of the lab requirements for the chemistry BA degree. CHM 210W also meets one of the required two upper-level writing requirements for a chemistry major. This lab uses advanced, modern experimental techniques and includes training to use the department's NMR spectrometers. This requires extra time outside of scheduled laboratory hours (two, 3-hour laboratories and a lab-lecture per week). Co-registration in CHM 172 or CHM 204 is required. Lab fee of $134 will be billed by the Bursar's Office. Prerequisites: CHEM 207 or CHEM 173.</data>
+    </node>
+    <node id="CHEM232W">
+      <data key="d0">(4 credits, Spring) A thorough study of the principles and practice of spectroscopic methods of modern physical chemistry. Three lectures and one lab per week. Two exams and five laboratory reports. Course Topics: Overview, Classical view of spectroscopy, Quantum view of spectroscopy, oscillator, Rigid rotor and anharmonic oscillator, Generation and detection of EM radiation, Measurement methodology, noise, error, OCS lab and Stark effect, Electronic spectroscopy, Basic Electronics, Fine points of rovibrational spectra, FTIR experiment, 2 level theory, line broadening, Laser induced fluorescence experiment, Group theory, polyatomics, special topics, Polyatomic spectroscopy/intro to Pyrene, Pyrene lab instrumentation and analysis, Theory of ESR spectroscopy, ESR lab and instrumentation. Lab fee of $134 will be billed by the Bursar's Office. Prerequisites: CHEM 251 or equivalent.</data>
+    </node>
+    <node id="CHEM251" />
+    <node id="CHEM234">
+      <data key="d0">(4 credits, Spring) Advanced laboratory techniques of synthesis, characterization, and analysis applied to problems in inorganic and organic chemistry. A laboratory course with two or three 75-minute lectures for each lab. Labs are scheduled either Mon/Wed or Tue/Thurs for approximately two-and-one-half hours each. Graded work includes five lab reports, a midterm, and two problem sets. 234W has an additional writing assignment. CHM 234W meets one of the two required upper level writing courses for the chemistry major. Lab fee of $134 will be billed by the Bursar's Office. Prerequisites: CHEM 211 recommended.</data>
+    </node>
+    <node id="CHEM211" />
+    <node id="CHEM234W">
+      <data key="d0">(4 credits, Spring) Advanced laboratory techniques of synthesis, characterization, and analysis applied to problems in inorganic and organic chemistry. A laboratory course with two or three 75-minute lectures for each lab. Labs are scheduled either Mon/Wed or Tue/Thurs for approximately two-and-one-half hours each. Graded work includes five lab reports, a midterm, and two problem sets. 234W has an additional writing assignment and meets one of the two required upper level writing courses for the chemistry major. Lab fee of $134 will be billed by the Bursar's Office. Prerequisites: CHEM 211 recommended.</data>
+    </node>
+    <node id="CHEM252">
+      <data key="d0">(4 credits, Fall, Spring) Chemistry 252 covers thermodynamics, statistical mechanics, and chemical kinetics. These subjects provide a fundamental understanding of the behavior of matter and energy. The focus of the class is on both Thermodynamics, which is the mathematical theory of heat, gives rules describing how heat flows, and the relationship between heat and other kinds of energy, as well as on Statistical mechanics, which is the discipline that explains the nature of temperature, entropy, and provides a fundamental and microscopic explanation of thermodynamics in terms of probability and laws of statistics. The course follows the textbook “Molecular Thermodynamics” by D.A. McQuarrie and John Simon, and “Molecular Driving Force” by K.A. Dill and S. Bromberg.The course begins with the concept of Microstates and Entropy, the equal a priori probabilities assumption, the direction of approaching equilibrium as a process that maximizes the total number of microstates. It then discusses the nature of Temperature and uses heat transfer as an example to illustrate the process that maximizes the number of microstates. It continues with the derivation of the Boltzmann distribution and the physical meaning of partition function, followed by simple and concise applications of Boltzmann distribution. It then covers the factorization approximation, Translational Partition Function and Partition function of the monatomic ideal gas, obtaining energy and pressure from the partition function. It follows with the vibrational and rotational partition functions, and the intuitive understanding of heat capacities of solid and diatomic molecules. The course continues with the equipartition theorem of energy, and the concept of negative temperature. It then covers the Statistical Entropy, Entropy for model systems and detailed examples, Gibbs Entropy Formula and applications. For the Thermodynamics part of the class, it begins with the Basic logic of Thermodynamics, spontaneous processes, and the direction of approaching equilibrium. It continuous with the first law of Thermodynamics, Work, and Heat, The second law of Thermodynamics, and thermodynamics definition of Entropy, The third law of Thermodynamics, the Temperature dependence of Entropy, the concept of Enthalpy and its application in Thermochemistry. Then it follows with the Helmholtz Free energy, Gibbs Free Energy, Maxwell Relation and Gibbs-Helmholtz equation. The course then discusses the applications, focusing on Phase Equilibria, Chemical Potential, Gibbs-Duhem Equation, Solutions. It ends with the discussions of Chemical Equilibrium, Chemical Kinetics, Transition State Theory. The course also has peer-lead workshop sessions. In these sessions, students will work in teams and lead by workshop leaders to discuss concepts learned in lectures and solve problems that exemplify the concepts discussed in lecture material and explain their solutions to each other. Workshops help the students to engage with the material together with their peers. The class also contains 2-3 midterm exams and 10-11 homework problems, as well as a final exam.This course uses the Tues/Thurs 8:00 - 9:30 am Common Exam time. Prerequisites:General chemistry - CHM131/CHM132 or equivalent, first semester physics - PHY 113, Calculus - MTH143.</data>
+    </node>
+    <node id="CHM132" />
+    <node id="PHY113" />
+    <node id="MTH143" />
+    <node id="CHEM262">
+      <data key="d0">(4 credits, Spring) An introduction to the chemical processes of life. Topics to be covered include proteins and nucleic acids, recombinant DNA technology, biological catalysis, and energy transduction. Structure and function of biological macromolecules will be emphasized. Cross listed with CHM 462. Students will not receive credit for BIO 250 AND CHM 262/462. Prerequisites: at least one semester of organic chemistry (CHEM 171Q or CHEM 203). </data>
+    </node>
+    <node id="CHEM171Q" />
+    <node id="CHEM275">
+      <data key="d0">(4 credits) In this course, we will explore both the science of poisonous substances and their impact on human history and culture. What is a poison? Where can poisons be found in nature? Who discovered them, and how? Focusing on small molecule poisons, we will study the chemical and biochemical mechanisms underlying their toxicity and discuss how antidotes work. Through case studies, we will examine the wide variety of uses people have found for these compounds, from committing crimes to practicing medicine. Source materials will include historical, literary, and scientific texts, recent essays, and popular culture. Prerequisite: completion of two semesters of organic chemistry.</data>
+    </node>
+    <node id="CHEM422">
+      <data key="d0">(2 credits) (formerly CHM 423) - Mechanisms in organometallic reactions. Applications of organometallic compounds in homogeneous catalysis, polymerization, metathesis. Prerequisite: CHEM 421 (Fall Spring, 1st half of semester).</data>
+    </node>
+    <node id="CHEM421" />
+    <node id="CHEM434">
+      <data key="d0">(4 credits, Spring) Structure and reactivity; kinetic, catalysis, medium effects,transition state theory, kinetic isotope effects, photochemistry, reactive intermediates, and mechanisms. Readings in text ('Determination of Organic Reaction Mechanisms,' B.K. Carpenter); Problem sets (about four during the semester). Two 75 minutes lectures per week. Prerequisites: One year of organic chemistry or equivalent.</data>
+    </node>
+    <node id="CHEM436">
+      <data key="d0">(2 credits, Spring - first half of semester) Applications of Organometallic Chemistry to Synthesis I - The transition metal mediated organometallic reactions most commonly employed in organic synthesis will be discussed including their substrate scope, mechanism, and stereo- and/or regiochemical course. Emphasis will be placed on the practical aspects such as catalyst and reaction condition selection, and protocols for trouble shooting catalytic cycles. Prerequisites: CHEM 421.</data>
+    </node>
+    <node id="CHEM440">
+      <data key="d0">(4 credits) (Formerly CHM 437) - An introduction to bioorganic chemistry and chemical biology. The course will present a survey of how the principles of organic chemistry have been applied to understand and exploit biological phenomena and address fundamental questions in life sciences. The course is primarily based upon the primary literature. Covered topics include the design and mechanism of enzyme mimics and small molecule catalysts (organocatalysts), synthesis and chemical modification of biomolecules (oligonucleotides, proteins, oligosaccharides), design and application of oligonucleotide and peptide mimetics, and chemical approaches to proteomic and genetic analyses. Not open to first year students and sophomores. Prerequisites: One year of organic chemistry or equivaent; one semester of undergraduate biochemistry or biology recommended.</data>
+    </node>
+    <node id="CHEM442">
+      <data key="d0">(4 credits, Fall, Spring) Chemistry 252 covers thermodynamics, statistical mechanics, and chemical kinetics. These subjects provide a fundamental understanding of the behavior of matter and energy. The focus of the class is on both Thermodynamics, which is the mathematical theory of heat, gives rules describing how heat flows, and the relationship between heat and other kinds of energy, as well as on Statistical mechanics, which is the discipline that explains the nature of temperature, entropy, and provides a fundamental and microscopic explanation of thermodynamics in terms of probability and laws of statistics. The course follows the textbook “Molecular Thermodynamics” by D.A. McQuarrie and John Simon, and “Molecular Driving Force” by K.A. Dill and S. Bromberg.The course begins with the concept of Microstates and Entropy, the equal a priori probabilities assumption, the direction of approaching equilibrium as a process that maximizes the total number of microstates. It then discusses the nature of Temperature and uses heat transfer as an example to illustrate the process that maximizes the number of microstates. It continues with the derivation of the Boltzmann distribution and the physical meaning of partition function, followed by simple and concise applications of Boltzmann distribution. It then covers the factorization approximation, Translational Partition Function and Partition function of the monatomic ideal gas, obtaining energy and pressure from the partition function. It follows with the vibrational and rotational partition functions, and the intuitive understanding of heat capacities of solid and diatomic molecules. The course continues with the equipartition theorem of energy, and the concept of negative temperature. It then covers the Statistical Entropy, Entropy for model systems and detailed examples, Gibbs Entropy Formula and applications. For the Thermodynamics part of the class, it begins with the Basic logic of Thermodynamics, spontaneous processes, and the direction of approaching equilibrium. It continuous with the first law of Thermodynamics, Work, and Heat, The second law of Thermodynamics, and thermodynamics definition of Entropy, The third law of Thermodynamics, the Temperature dependence of Entropy, the concept of Enthalpy and its application in Thermochemistry. Then it follows with the Helmholtz Free energy, Gibbs Free Energy, Maxwell Relation and Gibbs-Helmholtz equation. The course then discusses the applications, focusing on Phase Equilibria, Chemical Potential, Gibbs-Duhem Equation, Solutions. It ends with the discussions of Chemical Equilibrium, Chemical Kinetics, Transition State Theory. The course also has peer-lead workshop sessions. In these sessions, students will work in teams and lead by workshop leaders to discuss concepts learned in lectures and solve problems that exemplify the concepts discussed in lecture material and explain their solutions to each other. Workshops help the students to engage with the material together with their peers. The class also contains 2-3 midterm exams and 10-11 homework problems, as well as a final exam.This course uses the Tues/Thurs 8:00 - 9:30 am Common Exam time. Prerequisites:General chemistry - CHM131/CHM132 or equivalent, first semester physics - PHY 113, Calculus - MTH143.</data>
+    </node>
+    <node id="CHEM446">
+      <data key="d0">(2 credit, Fall, Spring) This course will survey the various classes of materials that can support permanent porosity as well as their established and emerging applications. Topics covered will include insustrial zeolite catalysis, adsorptive gas storage and separations, and membrane science. An emphasis will be placed on applications of current industrial importance. Prerequisites: CHEM 211 or equivalent and a basic familiarity of thermodynamics and chemical kinetics will be assumed. CHEM 252 is suggested but not required.</data>
+    </node>
+    <node id="CHEM452">
+      <data key="d0">(4 credits, Spring) The goal of this course is to give you familiarity with concepts and methods in modern quantum mechanics that are employed in Chemistry and many-body Science. The course will introduce basic strategies to capture the quantum dynamics of closed systems and those in interaction with a quantum surrounding. Topics include: wave-packet methods in molecular dynamics, second quantization, density matrices, quantum relaxation and decoherence, Green's function techniques, path integral methods. Prerequisites: graduate level course on quantum mechanics, CHM451 or equivalent.</data>
+    </node>
+    <node id="CHM451" />
+    <node id="CHEM456">
+      <data key="d0">(4 credits, Spring) An introduction to the electronic structure of extended materials systems from both a chemical bonding and a condensed matter physics perspective. The course will discuss materials of all length scales from individual molecules to macroscopic three-dimensional crystals, but will focus on zero, one, and two dimensional inorganic materials at the nanometer scale. Specific topics include semiconductor nanocrystals, quantum wires, carbon nanotubes, and conjugated polymers. Two weekly lectures of 75 minutes each. Cross listed with OPT 429. Prerequisites: CHEM 251 or an equivalent course on introductory quantum mechanics.</data>
+    </node>
+    <node id="CHEM462">
+      <data key="d0">(4 credits, Spring) An introduction to the chemical processes of life. Topics to be covered include, proteins an nucleic acids, recombinant DNA technology, biological catalysis, and energy transduction. Structure and function of biological macromolecules will be emphasized. Cross listed with CHEM 262. Students will not receive credit for BIO 250 AND CHEM 262/462. Prerequisites: at least one semester of organic chemistry (CHEM 171Q or CHEM 203). </data>
+    </node>
+    <node id="CLST131">
+      <data key="d0">This course examines the phenomenon of urbanism in the ancient Mediterranean world. After a brief consideration of the rise of cities in western Asia and Egypt, the course focuses on the cities and colonies of ancient Greece and of the Roman Empire, with special attention devoted to Athens and Rome. Topics covered include town planning, public and private spaces and building types, urban life, and colonization, as seen through the archaeological remains of cities located around the Mediterranean basin and beyond.  There are no prerequisites for this course.</data>
+    </node>
+    <node id="CLST230">
+      <data key="d0">This course examines the physical remains of ancient Greek civilization, with an emphasis on architecture, sculpture, painting, and other visual arts, in order to understand Greek culture and society. There are no prerequisites for this course.</data>
+    </node>
+    <node id="CLST230W">
+      <data key="d0">This course examines the physical remains of ancient Greek civilization, with an emphasis on architecture, sculpture, painting, and other visual arts, in order to understand Greek culture and society. There are no prerequisites for this course.</data>
+    </node>
+    <node id="CLTR240A">
+      <data key="d0">This course examines philosophical approaches to music (broadly defined) and thus lies at the frontiers of music theory, philosophical aesthetics, and philosophy of art. Themes to be explored include the ontology of music, performance theory, the problem of musical representation, musical semiotics, phenomenology of music, music and aesthetic value, and musical affect theory. Theoreticians and philosophers studied include classic (Hanslick, Gurney), as well as twentieth-century (Adorno, Jankélévitch) and contemporary (Peter Kivy, Stephen Davies, Lydia Goehr, Jean-Jacques Nattiez) authors. No prerequisites, but students must be able to read music notation to take this course. Conducted in English.</data>
+    </node>
+    <node id="CLTR389">
+      <data key="d0">CLT 389 introduces students to a broad range of theoretical and critical approaches to reading and interpreting texts, films, and other cultural objects. Students read literature and theory with an eye toward understanding the role of criticism and why and how the study of literature and culture (still) matters. The class introduces tools for understanding literary uses of languages; the relations between words, images, the human subject and society; and the creation of and struggles over meaning and value. This seminar will model for students how to do research in their MLC major through a workshop process that addresses ways to: identify a research topic/question; begin a scholarly investigation into that topic; and successfully conduct a sustained argument that relies on textual evidence and the application of theoretical insights. There will be short writing assignments and a 15-20-page research paper. Non-majors should request permission before registering. Prerequisite: CLTR 200.</data>
+    </node>
+    <node id="CLTR200" />
+    <node id="CLTR440A">
+      <data key="d0">This course examines philosophical approaches to music (broadly defined) and thus lies at the frontiers of music theory, philosophical aesthetics, and philosophy of art. Themes to be explored include the ontology of music, performance theory, the problem of musical representation, musical semiotics, phenomenology of music, music and aesthetic value, and musical affect theory. Theoreticians and philosophers studied include classic (Hanslick, Gurney), as well as twentieth-century (Adorno, Jankélévitch) and contemporary (Peter Kivy, Stephen Davies, Lydia Goehr, Jean-Jacques Nattiez) authors. No prerequisites, but students must be able to read music notation to take this course. Conducted in English.</data>
+    </node>
+    <node id="CSC171" />
+    <node id="MTH150" />
+    <node id="CSC210">
+      <data key="d0">The World Wide Web was born around 1990, so it is not much older than most of you. In this course, we will follow the growth of the Web from its toddler years, to early childhood, to its turbulent pre-teen and teenage years, and finally as it begins to mature as a young adult. Along this journey, you will learn influential Web technologies such as HTTP, HTML, JavaScript, CSS, the LAMP stack, XML, JSON, Ajax, WebSockets, and modern MVC frameworks. Even though you will be doing a lot of programming in this course, its purpose is not to teach you to become an expert in any particular language or framework. Web technologies change at a blistering pace, so specifics quickly get outdated. However, once you take this course and understand the fundamentals, you will be able to easily pick up new technologies on the fly.Prerequisites: CSC 172. *No audits will be allowed for this course</data>
+    </node>
+    <node id="CSC211">
+      <data key="d0">The goal of this course is to provide an introductory overview of the concepts, principles, methods and special topics of Human-Computer Interaction (HCI). This course will help students to build a frame of reference of HCI approaches and apply them in conducting design practices for real-world problems. This course contains a combination of lectures, seminars and group projects. The lectures will cover origins of HCI and interaction design, user-centered design methods, usability evaluation and user experience. The seminars will be a combination of guest lecturers and student-led discussions to introduce special topics in HCI, which may include Augmented and Virtual Reality, Tangible User Interface, Human-Robot Interaction, learning technologies, and assistive technologies. The group project will take place throughout the course and provide an opportunity for students to apply and reflect on HCI methods and user-centered design processes through contextual inquiry, prototyping, evaluation, iteration and presentation. Prerequisite: CSC 172 (required), CSC 214 (desired), or permission of the instructor.</data>
+    </node>
+    <node id="CSC 172" />
+    <node id="CSC 214" />
+    <node id="CSC214">
+      <data key="d0">Coursework covers user interface designs and functional algorithms for mobile devices (iOS summer/fall, Android spring) and unique user interactions using multi-touch technologies. Object-oriented design including model-view-controller paradigm, memory management. Other topics include: object-oriented database API, animation, web services and performance considerations. Prerequisites: CSC 172</data>
+    </node>
+    <node id="CSC240">
+      <data key="d0">Fundamental concepts and techniques of data mining, including data attributes, data visualization, data pre-processing, mining frequent patterns, association and correlation, classification methods, and cluster analysis. Advanced topics include outlier detection, stream mining, and social media data mining. CSC 440, a graduate-level course, requires additional readings and a course project.Prerequisites will be strictly enforced: CSC171, CSC 172 and MTH 161. Recommended: CSC 242 or CSC262; MTH165.</data>
+    </node>
+    <node id="CSC262" />
+    <node id="CSC243">
+      <data key="d0">This is a seminar-style course for advanced undergraduate and graduate students covering multiple areas of computational neuroscience by weekly readings and student presentations. Many of the topics are deeper explorations of topics covered in CSC 241 Introduction to Computational Neuroscience, focusing on the sensory system, decision-making, action selection and active inference, especially from a probabilistic and normative perspective. The reading list is somewhat flexible and adaptable to student interest. There is an opportunity for a final project but this is not required.Prerequisite: CSC 241 or permission of instructor</data>
+    </node>
+    <node id="CSC241" />
+    <node id="CSC246">
+      <data key="d0">Mathematical foundations of classification, regression, and decision making. Supervised algorithms covered include perceptrons, logistic regression, support vector machines, and neural networks.  Directed and undirected graphical models.  Numerical parameter optimization, including gradient descent, expectation maximization, and other methods.  Introduction to reinforcement learning. Proofs covered as appropriate.  Significant programming projects will be assigned.  This course involves a lot of math and algorithms.  You should know multivariable calculus,  linear algebra, and some algorithms.  No formal prerequisites but MATH 165, MATH 164, and CSC 242 strongly recommended.</data>
+    </node>
+    <node id="MATH164" />
+    <node id="CSC247">
+      <data key="d0">This course addresses issues of representing computing meaning from natural language, especially issues of understanding language in context using commonsense knowledge of the world. Topics will include a survey of English phrase structure and parsing, semantic representation (e.g., events, semantic roles, time, causality and speech acts), and theories and techniques for understanding language in context, including intention recognition, text understanding using knowledge of scripts and plans, and models of spoken dialogue systems (e.g., conversational agents such as Siri). CSC447, the graduate level version of the course, requires a substantial individual project.Prerequisite: CSC 242</data>
+    </node>
+    <node id="CSC249">
+      <data key="d0">Introduction to computer vision, including camera models, basic image processing, pattern and object recognition, and elements of human vision. Specific topics include geometric issues, statistical models, Hough transforms, color theory, texture, and optic flow. CSC 449, a graduate-level course, requires additional readings and assignments.Prerequisites: MATH 161 and CSC 242; MATH 165 strongly recommended</data>
+    </node>
+    <node id="CSC250">
+      <data key="d0">This course addresses linguistic research questions through data science techniques. The course will focus on developing skills to (i) acquire and process a variety of language data, from using established corpora to capturing data in the wild, and (ii) to investigate language use, particularly syntactic and semantic phenomena, through descriptive and inferential statistical techniques. A significant part of the course will be devoted to hands-on projects and will include developing familiarity with using the programming languages Python and R to acquire and explore linguistic data. Familiarity with statistics and/or computational linguistics is advantageous, but not necessary. Prerequisites: LING 110, and either LING 210, LING 220 or LING 225.</data>
+    </node>
+    <node id="LING110" />
+    <node id="LING210" />
+    <node id="LING220" />
+    <node id="LING225" />
+    <node id="CSC252">
+      <data key="d0">Introduction to computer architecture and the layering of hardware/software systems. Topics include instruction set design; logical building blocks; computer arithmetic; processor organization; the memory hierarchy (registers, caches, main memory, and secondary storage); I/Obuses, devices, and interrupts; microcode and assembly language; virtual machines; the roles of the assembler, linker, compiler, and operating system; technological trends and the future of computing hardware. Several programming assignments required.Prerequisites: MTH 150 and CSC 172</data>
+    </node>
+    <node id="CSC255">
+      <data key="d0">Programming is the automation of information processing. Program analysis and transformation is the automation of programming itself---how much a program can understand and improve other programs. Because of the diversity and complexity of computer hardware, programmers increasingly depend on automation in compilers and other tools to deliver efficient and reliable software. This course combines fundamental principles and (hands-on) practical applications. Specific topics include data flow and dependence theories; static and dynamic program transformation including parallelization; memory and cache management; type checking and program verification; and performance analysis and modeling. The knowledge and practice will help students to become experts in software performance and correctness. Students taking the graduate level will have additional course requirements and a more difficult project.Recommended prerequisites: CSC 252, CSC 254.</data>
+    </node>
+    <node id="CSC254" />
+    <node id="CSC258">
+      <data key="d0">Principles of parallel and distributed systems, and the associated implementation and performance issues. Topics covered will include programming interfaces to parallel and distributed computing, interprocess communication, synchronization, and consistency models, fault tolerance and reliability, distributed process management, distributed file systems, multiprocessor architectures, parallel program optimization, and parallelizing compilers. Students taking this course at the 400 level will be required to complete additional readings and/or assignments.Prerequisites: CSC 252 and (CSC 254 or CSC 256) or instructor permission</data>
+    </node>
+    <node id="CSC256" />
+    <node id="CSC260">
+      <data key="d0">We currently add 51 billion tons of greenhouse gases to the atmosphere every year. We need to get it down to zero to stop the warming and avoid a cloud disaster. How?In this class, we will discuss and explore the role of technology to bring innovative breakthroughs to combat this unique challenge. Examples include the use of machine learning techniques to better predict climate, visualizing the effects of extreme weather to create awareness, monitoring the emission of carbon with satellite imagery. The lectures will consist of discussions, reading papers, guest lecturers, and a final project. Prerequisite: CSC 242.</data>
+    </node>
+    <node id="CSC261">
+      <data key="d0">This course presents the fundamental concepts of database design and use. It provides a study of data models, data description languages, and query facilities including relational algebra and SQL, data normalization, transactions and their properties, physical data organization and indexing, security issues and object databases. It also looks at the new trends in databases. The knowledge of the above topics will be applied in the design and implementation of a database application using a target database management system as part of a semester-long group project.Prerequisites: CSC 172; CSC 173 and CSC 252 recommended.</data>
+    </node>
+    <node id="CSC263">
+      <data key="d0">This course explores the internals of data engines. Topics covered will include the relational model; relational database design principles based on dependencies and normal forms; query execution; transactions; recovery; query optimization; parallel query processing; NoSQL. Restricted to CSC and DSCC majors only during initial registration period.Prerequisites:CSC 173 and CSC 252 (or CSC 261)</data>
+    </node>
+    <node id="SC173" />
+    <node id="CSC278">
+      <data key="d0">This course will teach students the foundations of computer security. Students will learn what security is, the design principles of secure systems, how security is enforced, and how security is compromised. Topics include access controls, information flow, basic applications of cryptography, buffer overflow attacks, and malware. Prerequisites: CSC 252 or CSC 452 or ECE 200.</data>
+    </node>
+    <node id="CSC452" />
+    <node id="ECE200">
+      <data key="d0">Instruction set principles; processor design, pipelining, data and control hazards; datapath and computer arithmetic; memory systems; I/O and peripheral devices; internetworking. Students learn the challenges, opportunities, and tradeoffs involved in modern microprocessor design. Assignments and labs involve processor and memory subsystem design using hardware description languages (HDL). Prerequisites:ECE114, ECE 112 or CSC 171, or permission of Instructor</data>
+    </node>
+    <node id="CSC280">
+      <data key="d0"> This course studies fundamental computer models and their computational limitations. Finite-state machines and pumping lemmas, the context-free languages, Turing machines, decidable and Turing-recognizable languages, undecidability, NP-completeness. Prerequisites include CSC 173 and MATH 150. YOU MUST REGISTER FOR A RECITATION WHEN REGISTERING FOR THE MAIN COURSE</data>
+    </node>
+    <node id="CSC282">
+      <data key="d0">How does one design programs and ascertain their efficiency? Greedy algorithms, dynamic programming, divide-and-conquer techniques, string processing, graph algorithms, mathematical algorithms. Introduction to NP-completeness and linear programming. Students taking this course at the 400 level may be required to complete additional tests, readings or assignments.Prerequisites: (CSC 172 and MATH 150) or MATH172. Students MUST register for the recitation when registering for this course. </data>
+    </node>
+    <node id="MATH172" />
+    <node id="CSC286">
+      <data key="d0">The difference between computable and uncomputable problems and between feasible and infeasible problems. Regarding the latter, what properties of a problem make it computationally simple? What properties of a problem may preclude its having efficient algorithms? How computationally hard are problems? Complete sets and low information content; P=NP?; unambiguous computation and one-way functions; reductions relating the complexity of problems; complexity classes and hierarchies.Prerequisite: CSC 280</data>
+    </node>
+    <node id="CSC289">
+      <data key="d0">This class will provide an introduction to topics at the intersection of computer science and economics, including game theory, auctions, incentive-compatible mechanism design, matching algorithms, human computation (e.g., crowdsourcing and peer prediction), trust and reputation systems, and social choice (voting) theory. We hope to convey the fact that the relationship between computer science and economics is a two-way street: It is important to consider incentives and strategic action are important when designing computation-intensive systems, and efficient and robust algorithms enable the deployment of impactful economic ideas.Prerequisites: Familiarity with probability theory, single-variable calculus, linear algebra, and basics of theoretical computer science. No background in economic theory is assumed or required. Students should also be prepared to write code in Python. Please email the instructor with any questions.</data>
+    </node>
+    <node id="CSC402">
+      <data key="d0">The science of networks is an emerging discipline of great importance that combines graph theory, probability and statistics, and facets of engineering and the social sciences. This course will provide students with the mathematical tools and computational training to understand large-scale networks in the current era of Big Data. It will introduce basic network models and structural descriptors, network dynamics and prediction of processes evolving on graphs, modern algorithms for topology inference, community and anomaly detection, as well as fundamentals of social network analysis. All concepts and theories will be illustrated with numerous applications and case studies from technological, social, biological, and information networks. Prerequisites: Some mathematical maturity, comfortable with linear algebra, probability, and analysis (e.g., MTH164-165). Exposure to programming and Matlab useful, but not required.</data>
+    </node>
+    <node id="MTH164" />
+    <node id="CSC404">
+      <data key="d0">This course provides in-depth discussions of the design and implementation issues of multiprocessor system architecture. Topics include cache coherence, memory consistency, interconnect, their interplay and impact on the design of high-performance micro-architectures. prerequisiteECE 200 or CSC 252 or permission of instructor</data>
+    </node>
+    <node id="E200" />
+    <node id="CSC414">
+      <data key="d0">This is the second course offered as part of the PhD training program on augmented and virtual reality. It builds on the first course, Introduction to Augmented and Virtual Reality (AR/VR). The goal of the course is to provide exposure to problems in the AR/VR domain addressed by various disciplines. The course consists of three one-month long modules in a semester. Modules engage students in particular aspects of AR/VR or hands-on experience on AR/VR. Modules to be offered in various years include: fundamentals of optics for AR/VR; AR/VR in the silicon; foundations of visual perception in the context of AR/VR; computer audition and acoustic rendering; measuring the human brain; deep learning and visual recognition for AR/VR; brain-computer interfacing in a virtual environment; 3D interfaces and interaction; AR/VR for collaborative education &amp; professional training. In Spring 2023, the following three modules will be offered: 1) Deep learning and visual recognition for AR/VR. (Prof. Chenliang Xu) Recent developments in deep learning have significantly advanced state-of-the-art visual recognition in problems such as object detection, activity recognition, and semantic segmentation. In this module, students will learn core concepts in deep learning, including convolutional neural networks and recurrent neural networks. They will receive hands-on experience using popular deep-learning libraries like PyTorch to build visual recognition algorithms for AR/VR systems. 2) Measuring the human brain. (Prof. Ross Maddox) This module will introduce students to studies of human brain function using non-invasive methods. It will focus on experimental paradigms and data analysis in the time and frequency domains. Neural encoding and decoding models and applications to brain-computer interfaces will also be discussed. The module will have a mixed format, with lectures and labs. Lab exercises will be based on analyzing real data from human subjects. 3) Professional encounters with leading AR/VR researchers. This module will involve a series of seminars and discussion sessions with leading AR/VR researchers from academia and industry. Prerequisites: ECE 410 or OPT 410 or BME 410 or NSCI 415 or CSC 413 or CVSC 534INSTRUCTORS: Chenliang Xu; Ross Maddox; Mujdat Cetin</data>
+    </node>
+    <node id="CSC443">
+      <data key="d0">This is a seminar-style course for advanced undergraduate and graduate students covering multiple areas of computational neuroscience by weekly readings and student presentations. Many of the topics are deeper explorations of topics covered in Introduction to Computational Neuroscience, focusing on the sensory system, decision-making, action selection and active inference, especially from a probabilistic and normative perspective. The reading list is somewhat flexible and adaptable to student interest. There is an opportunity for a final project but this is not required.Prerequisite: CSC 241/441 or permission of instructor</data>
+    </node>
+    <node id="CSC441" />
+    <node id="CSC446">
+      <data key="d0">Mathematical foundations of classification, regression, and decision making. Supervised algorithms covered include perceptrons, logistic regression, support vector machines, and neural networks.  Directed and undirected graphical models.  Numerical parameter optimization, including gradient descent, expectation maximization, and other methods.  Introduction to reinforcement learning. Proofs covered as appropriate.  Significant programming projects will be assigned.  This course involves a lot of math and algorithms.  You should know multivariable calculus,  linear algebra, and some algorithms.   No formal prerequisites but MATH 165, MATH 164, and CSC 242 strongly recommended.</data>
+    </node>
+    <node id="CSC447">
+      <data key="d0">This course addresses issues of representing computing meaning from natural language, especially issues of understanding language in context using commonsense knowledge of the world. Topics will include a survey of English phrase structure and parsing, semantic representation (e.g., events, semantic roles, time, causality and speech acts), and theories and techniques for understanding language in context, including intention recognition, text understanding using knowledge of scripts and plans, and models of spoken dialogue systems (e.g., conversational agents such as Siri). CSC447, the graduate level version of the course, requires a substantial individual project.Prerequisites: CSC 242</data>
+    </node>
+    <node id="CSC449">
+      <data key="d0">Introduction to computer vision, including camera models, basic image processing, pattern and object recognition, and elements of human vision. Specific topics include geometric issues, statistical models, Hough transforms, color theory, texture, and optic flow. CSC 449, a graduate-level course, requires additional readings and assignments.Prerequisites: MATH 161 and CSC 242; MATH 165 strongly recommended</data>
+    </node>
+    <node id="CSC460">
+      <data key="d0">We currently add 51 billion tons of greenhouse gases to the atmosphere every year. We need to get it down to zero to stop the warming and avoid a cloud disaster. How?In this class, we will discuss and explore the role of technology to bring innovative breakthroughs to combat this unique challenge. Examples include the use of machine learning techniques to better predict climate, visualizing the effects of extreme weather to create awareness, monitoring the emission of carbon with satellite imagery. The lectures will consist of discussions, reading papers, guest lecturers, and a final project. Prerequisite: CSC 242, or equivalent.</data>
+    </node>
+    <node id="CSC478">
+      <data key="d0">This course will teach students the foundations of computer security. Students will learn what security is, the design principles of secure systems, how security is enforced, and how security is compromised. Topics include access controls, information flow, basic applications of cryptography, buffer overflow attacks, and malware. Prerequisites: CSC 252 or CSC 452 or ECE 200.</data>
+    </node>
+    <node id="CSC480">
+      <data key="d0">This course studies fundamental computer models and their computational limitations. Finite-state machines and pumping lemmas, the context-free languages, Turing machines, decidable and Turing-recognizable languages, undecidability, NP-completeness. Prerequisites: CSC 173 and MTH 150. YOU MUST REGISTER FOR A RECITATION WHEN REGISTERING FOR THE MAIN COURSE</data>
+    </node>
+    <node id="CSC482">
+      <data key="d0">How does one design programs and ascertain their efficiency? Divide-and-conquer techniques, string processing, graph algorithms, mathematical algorithms. Advanced data structures such as balanced tree schemes. Introduction to NP-completeness and intractable combinatorial search, optimization, and decision problems.Prerequisites: (CSC 172 and MTH 150) or MTH172. Students MUST register for a recitation when registering for this course.</data>
+    </node>
+    <node id="MTH172" />
+    <node id="CSC486">
+      <data key="d0">The difference between computable and uncomputable problems and between feasible and infeasible problems. Regarding the latter, what properties of a problem make it computationally simple? What properties of a problem may preclude its having efficient algorithms? How computationally hard are problems? Complete sets and low information content; P=NP?; unambiguous computation and one-way functions; reductions relating the complexity of problems; complexity classes and hierarchies.Prerequisites: CSC 280</data>
+    </node>
+    <node id="CSC489">
+      <data key="d0">This class will provide an introduction to topics at the intersection of computer science and economics, including game theory, auctions, incentive-compatible mechanism design, matching algorithms, human computation (e.g., crowdsourcing and peer prediction), trust and reputation systems, and social choice (voting) theory. We hope to convey the fact that the relationship between computer science and economics is a two-way street: It is important to consider incentives and strategic action are important when designing computation-intensive systems, and efficient and robust algorithms enable the deployment of impactful economic ideas.Prerequisites: Familiarity with probability theory, single-variable calculus, linear algebra, and basics of theoretical computer science. No background in economic theory is assumed or required. Students should also be prepared to write code in Python. Please email the instructor with any questions.</data>
+    </node>
+    <node id="CVSC110">
+      <data key="d0">Introduces the structure and organization of the brain, and its role in perception, movement, thinking, and other behavior. Topics include the brain as a special kind of computer, localization of function, effects of brain damage and disorders, differences between human and animal brains, sex differences, perception and control of movement, sleep, regulation of body states and emotions, and development and aging. No prerequisites.</data>
+    </node>
+    <node id="CVSC208">
+      <data key="d0">Introduces behavioral and psychophysical studies of perceptual and cognitive phenomena. Students perform, analyze, interpret, and report results from experiments that move from reproducing classic phenomena to conducting new studies independently.Prerequisites: STAT 212 and either BCSC 151 or BCSC 153</data>
+    </node>
+    <node id="CVSC535">
+      <data key="d0">This is the second course offered as part of the PhD training program on augmented and virtual reality. It builds on the first course, Introduction to Augmented and Virtual Reality (AR/VR). The goal of the course is to provide exposure to problems in the AR/VR domain addressed by various disciplines. The course consists of three one-month long modules in a semester. Modules engage students in particular aspects of AR/VR or hands-on experience on AR/VR. Modules to be offered in various years include: fundamentals of optics for AR/VR; AR/VR in the silicon; foundations of visual perception in the context of AR/VR; computer audition and acoustic rendering; measuring the human brain; deep learning and visual recognition for AR/VR; brain-computer interfacing in a virtual environment; 3D interfaces and interaction; AR/VR for collaborative education &amp; professional training. In Spring 2023, the following three modules will be offered: 1) Deep learning and visual recognition for AR/VR. (Prof. Chenliang Xu) Recent developments in deep learning have significantly advanced state-of-the-art visual recognition in problems such as object detection, activity recognition, and semantic segmentation. In this module, students will learn core concepts in deep learning, including convolutional neural networks and recurrent neural networks. They will receive hands-on experience using popular deep-learning libraries like PyTorch to build visual recognition algorithms for AR/VR systems. 2) Measuring the human brain. (Prof. Ross Maddox) This module will introduce students to studies of human brain function using non-invasive methods. It will focus on experimental paradigms and data analysis in the time and frequency domains. Neural encoding and decoding models and applications to brain-computer interfaces will also be discussed. The module will have a mixed format, with lectures and labs. Lab exercises will be based on analyzing real data from human subjects. 3) Professional encounters with leading AR/VR researchers. This module will involve a series of seminars and discussion sessions with leading AR/VR researchers from academia and industry. Prerequisites: ECE 410 or OPT 410 or BME 410 or NSCI 415 or CSC 413 or CVSC 534INSTRUCTORS: Chenliang Xu; Ross Maddox; Mujdat Cetin</data>
+    </node>
+    <node id="DANC269">
+      <data key="d0">Practice and performance of classical and contemporary ballet with a contemporary approach in order to serve the dancer of any style of movement. Within the ballet form, classes will explore efficiency of movement, breath, anatomical mechanics, strength, alignment and through-line, weight, rhythmic accuracy, clarity of space, shape and effort, and somatic practices to develop and improve technical skills. Prerequisites: DANC 268 or DANC 252 or permission from Instructor</data>
+    </node>
+    <node id="DANC268" />
+    <node id="DANC252" />
+    <node id="DANC365A">
+      <data key="d0">Sansifanyi is an ensemble that combines academic study and performance for intermediate and advanced students of African drumming and dance. This course requires a high degree of student commitment. Dancers who enroll in Sansifanyi will learn choreographic techniques for West African dance and gain experience dancing as soloists, and developing their own solo material. They will also focus on rhythmic timing, and on advanced skills such as how to combine movement with drumming. In addition to the time students spend in class, dancers will have weekly assignments researching, reading, writing, viewing videos, text and article analysis, practicing, and choreographing various rhythms, songs, movements, and sequences. Dancers must also be available for performances both on and off campus throughout the semester.  Prerequisite: Audition on first day of class or for dancers, one of the following: DANC 181/182, DANC 283, DANC 253, DANC 285: For drummers one of the following: MUSC 168A, MUSC 168B, MUSC 146</data>
+    </node>
+    <node id="DANC365B">
+      <data key="d0">Sansifanyi is an ensemble that combines academic study and performance for intermediate and advanced students of African drumming and dance. This course requires a high degree of student commitment. Dancers who enroll in Sansifanyi will learn choreographic techniques for West African dance and gain experience dancing as soloists, and developing their own solo material. They will also focus on rhythmic timing, and on advanced skills such as how to combine movement with drumming. In addition to the time students spend in class, dancers will have weekly assignments researching, reading, writing, viewing videos, text and article analysis, practicing, and choreographing various rhythms, songs, movements, and sequences. Dancers must also be available for performances both on and off campus throughout the semester. Students in section B are required to successfully complete section A of this course in order to register. In addition to gaining an in-depth understanding of the history and culture, students in this section will expand their repertoire and improve their skills at dancing/drumming and performing. Students in section B will also gain teaching assistant skills by helping the students in section A with select choreographies taught in the course. Prerequisite: DANC 365 A</data>
+    </node>
+    <node id="DANC365" />
+    <node id="DANC365C">
+      <data key="d0">Sansifanyi is an ensemble that combines academic study and performance for intermediate and advanced students of African drumming and dance. This course requires a high degree of student commitment. Dancers who enroll in Sansifanyi will learn choreographic techniques for West African dance and gain experience dancing as soloists, and developing their own solo material. They will also focus on rhythmic timing, and on advanced skills such as how to combine movement with drumming. In addition to the time students spend in class, dancers will have weekly assignments researching, reading, writing, viewing videos, text and article analysis, practicing, and choreographing various rhythms, songs, movements, and sequences. Dancers must also be available for performances both on and off campus throughout the semester. Students in section C are required to successfully complete section A and B of this course in order to register. Students in this section will advance in their performance and choreographic skills. Students will continue to serve as peer teachers both in and out of the classroom sessions by assisting students in learning the dancing and drumming. Students in this section will oversee the basic teachings of this course including leading preparatory warm up phrases as well as assisting students with known repertory while new materials is being developed for the class by the instructor. Students in this section are required to work on a research-based capstone dance project throughout the semester. Prerequisites: DANC 365 A and DANC 365 B. Audits are only allowed after the course has been taken for credit.</data>
+    </node>
+    <node id="DSCC240">
+      <data key="d0">Fundamental concepts and techniques of data mining, including data attributes, data visualization, data pre-processing, mining frequent patterns, association and correlation, classification methods, and cluster analysis. Advanced topics include outlier detection, stream mining, and social media data mining. CSC 440, a graduate-level course, requires additional readings and a course project. Prerequisites will be strictly enforced: CSC171, CSC 172 and MATH 161. Recommended: CSC 242 or CSC262; MATH165.</data>
+    </node>
+    <node id="DSCC242">
+      <data key="d0">Introduces fundamental principles and techniques from Artificial Intelligence, including heuristic search, automated reasoning, handling uncertainty, and machine learning, to prepare students for advanced AI courses. Prerequisites: CSC 172 and MTH 150; CSC 173 STRONGLY Recommended. AUDITS NOT ALLOWED.</data>
+    </node>
+    <node id="DSCC261">
+      <data key="d0">This course presents the fundamental concepts of database design and use. It provides a study of data models, data description languages, and query facilities including relational algebra and SQL, data normalization, transactions and their properties, physical data organization and indexing, security issues and object databases. It also looks at the new trends in databases. The knowledge of the above topics will be applied in the design and implementation of a database application using a target database management system as part of a semester-long group project.Prerequisites: CSC 172; CSC 173 and CSC 252 recommended.</data>
+    </node>
+    <node id="DSCC263">
+      <data key="d0">This course explores the relational data model, the theory of database design, the use of databases in applications, and the internals of relational database engines. Topics covered will include the relational model and SQL; relational database design principles based on dependencies and normal forms; database topics from the application-building perspective, including indexes, views, transaction, and integrity constraints; query evaluation and optimization. Restricted to CSC &amp; DSCC majors only during initial registration period.Prerequisites: CSC 173 and CSC 252 (or CSC 261)</data>
+    </node>
+    <node id="DMST121">
+      <data key="d0">This course covers the fundamentals in becoming an audio engineer. Topics covered include: Acoustics, Psychoacoustics, Microphones, Signal Processing, Tape Recording, Digital Audio Theory, Signal Flow, Studio Etiquette, Digital Audio Workstations, Music Business, Recording Audio, and Mixing Audio. You do not need any previous experience in recording, however some familiarity with music and how it is created is needed.There are four group recording projects that make up the bulk of the course, each with their own guidelines and challenges. This course requires considerable time to be spent on projects outside of the lecture and lab times. The labs are required to take this course.First-year non-AME Major students are ineligible to take this course.Prerequisites: NoneINSTRUCTOR PERMISSION ONLY.</data>
+    </node>
+    <node id="DMST122">
+      <data key="d0">This course builds on knowledge gained in AME191. Fundamental topics covered include Advanced Mixing and Mastering Techniques, Drum Replacement, Impulse Responses and Reverb, Advanced Concepts of Signal Processing, Analog Tape Recording, Music Business Ethics and Taxes, and Hybrid Analog/Digital Mixing Techniques.Emphasis is on the development of critical listening skills through ear training exercises and active listening assignments. These drills will develop your ability to hear width and depth in audio, mixing techniques in various musical genres, specific instruments used in a recording, and recognition of various effects including reverb, delay, compression, phasing and distortion.There are four group recording projects that make up the bulk of the course, each with their own guidelines and challenges. This course requires considerable time to be spent on projects outside of the lecture and lab times. The labs are required to take this course.Prerequisites: AME 191INSTRUCTOR PERMISSION ONLY.</data>
+    </node>
+    <node id="DMST250">
+      <data key="d0">The purpose of writing in a digital world is to engage with a broader community around a topic of interest and contribute to public knowledge. In this course, students are invited to dig deeply into a question of interest, write for a public audience, and use the Internet as an archive of information waiting to be discovered, analyzed, and written about. Students can draw on pre-existing research interests from their majors or develop a line of inquiry stemming from class discussions, writing, and research. In order to gain experience writing to a range of readers, students will engage in a writing process informed by peer review, self-assessment, and revision. Shorter writing assignments will help students develop and refine ideas as they transform texts for different audiences. The final research project will be multimodal, published for a public audience, and should demonstrate your ability to think critically about a topic and effectively communicate that knowledge to a range of readers.Prerequisite: Completion of the Primary Writing Requirement.</data>
+    </node>
+    <node id="DMST373">
+      <data key="d0">The final capstone course in which students plan, design, construct and deliver a digital media object of significant scope. Working as a team, they deploy their collective knowledge, skills, and expertise to undertake an external client's proposal and/or devise a project of their own design. Prerequisite: DMST 372.</data>
+    </node>
+    <node id="DMST372" />
+    <node id="ECE112">
+      <data key="d0">Students are exposed to Combinational logic elements including all of the following: logic gates, Boolean algebra, Karnaugh Maps, conversion between number systems, binary, tertiary, octal, decimal, and hexadecimal number systems, and arithmetic on signed and unsigned binary numbers using 1's and 2's complement arithmetic. Also covered are programmable logic devices, synchronous finite state machines, State Diagrams, FPGAs and coding logic in VHDL.Prerequisites: MTH 162, OR MTH 141, OR MTH 171</data>
+    </node>
+    <node id="MTH162" />
+    <node id="MTH141" />
+    <node id="CE114" />
+    <node id="ECE208">
+      <data key="d0">Machine Learning (ML) is the branch of Artificial Intelligence dedicated to teaching computers how to solve tasks by learning from data. This class introduces basic concepts of machine learning through various real-world ECE applications. It will cover various learning paradigms such as supervised learning, semi-supervised learning, unsupervised learning, and reinforcement learning. It will also cover classical and state-of-the-art techniques such as linear models, support vector machines, Gaussian mixture models, hidden Markov models, matrix factorization, ensemble learning, principal component analysis, and various kinds of deep neural networks. Students will learn the pros and cons of different methods and their suited application scenarios. This course is hands-on with multiple programming assignments and a final project to solve real ECE problems. Prerequisites: General programming such as ECE-114; MATH 165 linear algebra. Probability and statistics such as ECE 270 is recommended. </data>
+    </node>
+    <node id="114" />
+    <node id="ECE270" />
+    <node id="ECE210">
+      <data key="d0">4 credit hour course, with laboratory, intended for physical scientists and (non-electrical) engineers. Electrical concepts will be developed based on modern needs and techniques: Current, Voltage, Components, Sources, Operational Amplifiers, Analysis Techniques, First and Second Order Circuits, Sinusoids and AC. Technical elective for non-ECE majors.prerequisites: Concurrent registration in MTH 165 and PHY 122</data>
+    </node>
+    <node id="PHY122" />
+    <node id="ECE222">
+      <data key="d0">An introduction to the analysis and design of integrated circuits. IC process technologies (CMOS, bipolar, BiCMOS). SPICE simulation. High-frequency device models (diode, BJT, MOSFET). Frequency response of amplifiers. Cascode amplifiers. Source degeneration. Differential amplifier. Feedback. Frequency compensation. Operational amplifiers. Inverters. Logic gates. Pass-transistor logic. HSPICE simulation labs. Hands-on final design project. Prerequisite: ECE 221 or equivalent, or permission of instructor</data>
+    </node>
+    <node id="ECE221" />
+    <node id="ECE233">
+      <data key="d0">Aspects of acoustics. Review of oscillators, vibratory motion, the acoustic wave equation, reflection, transmission and absorption of sound, radiation and diffraction of acoustic waves. Resonators, hearing and speech, architectural and environmental acoustics. prerequisites:Linear algebra and Differential Equations (MTH 165), Multivariable Calculus (MTH 164), and Physics (PHY 121) or equivalents. </data>
+    </node>
+    <node id="ECE408">
+      <data key="d0">Machine Learning (ML) is the branch of Artificial Intelligence dedicated to teaching computers how to solve tasks by learning from data. This class introduces basic concepts of machine learning through various real-world ECE applications. It will cover various learning paradigms such as supervised learning, semi-supervised learning, unsupervised learning, and reinforcement learning. It will also cover classical and state-of-the-art techniques such as linear models, support vector machines, Gaussian mixture models, hidden Markov models, matrix factorization, ensemble learning, principal component analysis, and various kinds of deep neural networks. Students will learn the pros and cons of different methods and their suited application scenarios. This course is hands-on with multiple programming assignments and a final project to solve real ECE problems. Prerequisites: General programming such as ECE-114; MATH 165 linear algebra. Probability and statistics such as ECE 270 is recommended. </data>
+    </node>
+    <node id="ECE409">
+      <data key="d0">Mathematical foundations of classification, regression, and decision making. Supervised algorithms covered include perceptrons, logistic regression, support vector machines, and neural networks.  Directed and undirected graphical models.  Numerical parameter optimization, including gradient descent, expectation maximization, and other methods.  Introduction to reinforcement learning. Proofs covered as appropriate.  Significant programming projects will be assigned.  Prerequisites:  This course involves a lot of math and algorithms.  You should know multivariable calculus,  linear algebra, and some algorithms.   No formal prerequisites but MATH 165, MATH 164, and CSC 242 strongly recommended.</data>
+    </node>
+    <node id="ECE411">
+      <data key="d0">This is the second course offered as part of the PhD training program on augmented and virtual reality. It builds on the first course, Introduction to Augmented and Virtual Reality (AR/VR). The goal of the course is to provide exposure to problems in the AR/VR domain addressed by various disciplines. The course consists of three one-month long modules in a semester. Modules engage students in particular aspects of AR/VR or hands-on experience on AR/VR. Modules to be offered in various years include: fundamentals of optics for AR/VR; AR/VR in the silicon; foundations of visual perception in the context of AR/VR; computer audition and acoustic rendering; measuring the human brain; deep learning and visual recognition for AR/VR; brain-computer interfacing in a virtual environment; 3D interfaces and interaction; AR/VR for collaborative education &amp; professional training. In Spring 2023, the following three modules will be offered: 1) Deep learning and visual recognition for AR/VR. (Prof. Chenliang Xu) Recent developments in deep learning have significantly advanced state-of-the-art visual recognition in problems such as object detection, activity recognition, and semantic segmentation. In this module, students will learn core concepts in deep learning, including convolutional neural networks and recurrent neural networks. They will receive hands-on experience using popular deep-learning libraries like PyTorch to build visual recognition algorithms for AR/VR systems. 2) Measuring the human brain. (Prof. Ross Maddox) This module will introduce students to studies of human brain function using non-invasive methods. It will focus on experimental paradigms and data analysis in the time and frequency domains. Neural encoding and decoding models and applications to brain-computer interfaces will also be discussed. The module will have a mixed format, with lectures and labs. Lab exercises will be based on analyzing real data from human subjects. 3) Professional encounters with leading AR/VR researchers. This module will involve a series of seminars and discussion sessions with leading AR/VR researchers from academia and industry. Prerequisites: ECE 410 or OPT 410 or BME 410 or NSCI 415 or CSC 413 or CVSC 534INSTRUCTORS:  Chenliang Xu; Ross Maddox; Mujdat Cetin</data>
+    </node>
+    <node id="ECE436">
+      <data key="d0">Various types of typical nanophotonic structures and nanomechanical structures, fundamental optical and mechanical properties: micro/nano-resonators, photonic crystals, plasmonic structures, metamaterials, nano-optomechanical structures. Cavity nonlinearoptics, cavity quantum optics, and cavity optomechanics. Fundamental physics and applications, state-of-art devices and current research trends. This class is designed primarily for graduate students. It may be suitable for senior undergraduates if they have required basic knowledge. Prerequisites:ECE 230 or 235,/435; OPT 262 or 462, or 468, or 223, or 412;  PHY 237, or 407</data>
+    </node>
+    <node id="CE230" />
+    <node id="CE235" />
+    <node id="CE435" />
+    <node id="OPT262" />
+    <node id="OPT462" />
+    <node id="OPT468" />
+    <node id="OPT223" />
+    <node id="OPT412" />
+    <node id="PHY407" />
+    <node id="ECE442">
+      <data key="d0">The science of networks is an emerging discipline of great importance that combines graph theory, probability and statistics, and facets of engineering and the social sciences. This course will provide students with the mathematical tools and computational training to understand large-scale networks in the current era of Big Data. It will introduce basic network models and structural descriptors, network dynamics and prediction of processes evolving on graphs, modern algorithms for topology inference, community and anomaly detection, as well as fundamentals of social network analysis. All concepts and theories will be illustrated with numerous applications and case studies from technological, social, biological, and information networks. prerequisites:Some mathematical maturity, comfortable with linear algebra, probability, and analysis (e.g., MTH164-165). Exposure to programming and Matlab useful, but not required.</data>
+    </node>
+    <node id="ECE449">
+      <data key="d0">Introduction to computer vision, including camera models, basic image processing, pattern and object recognition, and elements of human vision. Specific topics include geometric issues, statistical models, Hough transforms, color theory, texture, and optic flow. CSC 449, a graduate-level course, requires additional readings and assignments. Prerequisites: MATH 161 and CSC 242; MATH 165 strongly recommended</data>
+    </node>
+    <node id="ECE455">
+      <data key="d0">Programming is the automation of information processing. Program analysis and transformation is the automation of programming itself---how much a program can understand and improve other programs. Because of the diversity and complexity of computer hardware, programmers increasingly depend on automation in compilers and other tools to deliver efficient and reliable software. This course combines fundamental principles and (hands-on) practical applications. Specific topics include data flow and dependence theories; static and dynamic program transformation including parallelization; memory and cache management; type checking and program verification; and performance analysis and modeling. The knowledge and practice will help students to become experts in software performance and correctness. Students taking the graduate level will have additional course requirements and a more difficult project.Recommended prerequisites: CSC 252, CSC 254</data>
+    </node>
+    <node id="ECE472">
+      <data key="d0">This course is a survey of audio digital signal processing fundamentals and applications. Topics include sampling and quantization, analog to digital converters, time and frequency domains, spectral analysis, vocoding, digital filters, audio effects, music audio analysis and synthesis, and other advanced topics in audio signal processing. Implementation of algorithms using Matlab and on dedicated DSP platforms is emphasized. prerequisites: ECE 114 and basic Matlab programming, ECE 241 or equivalent </data>
+    </node>
+    <node id="ECE241" />
+    <node id="ECE473">
+      <data key="d0">The course is intended to provide students a basic understanding of creating audio for gaming. The emphasis is on demonstrations and hands-on experience to enable students to gain a practical knowledge of the integration of sound and music into video games using middleware. Students will primarily work with Wwise, Reaper, Pro Tools, and Logic Pro X. The course will also feature guest lectures by industry leading professionals, who will share their experience and insights. For a final project, students will create their own music and sound for a provided game.Topics will include soundtrack composition for interactive; Advanced sound effect creation, foley, Dialog recording and editing, and working within a game environment. Supplementary software discussed will include FMod, Unreal, and Nuendo. Prerequisite: AME 193 &amp; 194, or a working knowledge of either Pro Tools, Logic Pro, or Reaper.</data>
+    </node>
+    <node id="ECE475">
+      <data key="d0">In this course, students will develop skills for designing audio/music applications and creating computer music in C and Max. We will begin with the history of computer music, a survey of audio programming languages, and a review of C. Libsndfile, a C library for reading and writing sound files, will be used to explore topics in sound synthesis, analysis, and digital signal processing. Students will use PortAudio, a C library for real-time audio input/output, to design DSP applications. Max is a visual programming language for interactive audio/music and multimedia. Students are required to watch pre-recorded lectures to learn Max and attend recitations for reviews. They will also practice their programming techniques through a series of programming assignments, a midterm drum machine project in Max, and a final research/design project.  . Prerequisite: ECE 114 or instructor permission</data>
+    </node>
+    <node id="ECE480">
+      <data key="d0">Audio amplification concepts and design techniques focused on the use of vacuum tubes.  Will cover some concepts related to MOSFET amplifiers as well.  A mixture of lab based projects and LTSpice simulation.  Shall cover concepts related to impedance matching, preamps, class A and class AB power amplifiers, power supplies and grounding techniques. Prerequisites:AME 295 or Instructor permission</data>
+    </node>
+    <node id="ME295" />
+    <node id="ECE489">
+      <data key="d0">In this course, students will review recent publications in the field of audio engineering in a group setting. Students will be expected give presentations on key papers within an assigned subfield, and facilitate group discussions on the topic. Subfields may include loudspeakers, headphones, sound quality prediction, audio for AR/VR, and spatial audio. Publications will be selected from the Journal of the Audio Engineering Society and other leading scientific journals. Prerequisites:Basic knowledge of physics, acoustics, electronics, and signal processing.Only audio and acoustic students can register. Instructor permission only</data>
+    </node>
+    <node id="ECE492">
+      <data key="d0">Design of Audio Amplifiers focused on Class D designs.  To include power supply, layout and performance considerations.  Students will design and build a Class D amplifier as a final project. Prerequisites: AME 483, INSTRUCTOR PERMISSION ONLY</data>
+    </node>
+    <node id="AME483" />
+    <node id="ECON207">
+      <data key="d0">The economics of consumer choice and the demand for goods; producer choice, including the supply of goods and the demand for labor and other inputs; the effects of competition and monopoly power on prices and production. Prerequisites: ECON 108</data>
+    </node>
+    <node id="ECON108" />
+    <node id="ECON209">
+      <data key="d0">Economic growth, fluctuations, and other topics concerning the aggregate economyPrerequisite: ECON 207</data>
+    </node>
+    <node id="ECON214">
+      <data key="d0">This course teaches how to approach and solve a wide range of organizational design problems, whether as manager at any level, entrepreneur, or consultant. In a world in which most sources of competitive advantage are fleeting, organizational effectiveness has emerged as a key source of long-run competitive advantage. Conversely, many corporate failures can be traced to poor internal organization. Problems covered range from individual job design to the structure of entire organizations and the boundaries of the firm (e.g., M&amp;A decisions or vertical integration). The course discusses in detail the assignment of decision rights (including centralization vs. decentralization of decisions), performance measurement, and incentives and rewards. These are the three elements of “organizational architecture,” a central framework of the course. Throughout, the course stresses the importance of fit between a firm’s internal organization and its strategy. The course adopts an analytical-economic perspective that is grounded in the field of organizational economics. It also addresses the managerial and behavioral dimensions of organizational problems, drawing on insights from psychology and sociology as appropriate.First year and sophomore students are not eligible for this course. Prerequisite: ECON 207Overlapped: STR 203-2, ECON 214W-2, ECON 214-2** If the section is full, please request the course here on UR Student and then email ugbusiness@rochester.edu to be added to the waitlist. Professor Raith will not be able to override additional students; all requests must go through the ugbusiness@rochester.edu email.</data>
+    </node>
+    <node id="ACC201" />
+    <node id="MKT203" />
+    <node id="FIN204" />
+    <node id="ECON214W">
+      <data key="d0">The course combines basic economic concepts with agency theory and the concept of specific knowledge to develop a framework for understanding how executive efforts to create organizations affect business outcomes. The building of that framework includes a discussion of executive talent. Topics considered include: the linkage between formulating corporate strategy and building organizations that facilitate its execution, the link between maintaining competitive relevance and organizational evolution, the importance of decentralization, the importance of performance-evaluation as a tool for achieving decentralization, the challenges of implementing incentives and the links between organizational structure and ethical conduct. The goal is to enable students to better understand when poor corporate performance is traceable to a flawed organizational structure.First year and sophomore students are not eligible for this course. To enroll in this "W" section, request a course override and email ugbusiness@rochester.edu for approval.Prerequisite: ACC201; MKT203 or FIN204/205Overlapped: ECON 214-1, ECON 214W-1, STR 203-1** If the section is full, please request the course here on UR Student and then email ugbusiness@rochester.edu to be added to the waitlist. Professor Schmidt will not be able to override additional students; all requests must go through the ugbusiness@rochester.edu email.</data>
+    </node>
+    <node id="STR203" />
+    <node id="ECON231W">
+      <data key="d0">The course is an introduction to the application of econometric methods. It covers the basic tools of estimation and inference of cross-section models. Prerequisites are 1 semester of calculus (Mth 141 or Mth161 or Mth171), Eco 207 (can be taking at same time), and Eco 230 or Stat 213 or Math/Stat 203 or DSC262</data>
+    </node>
+    <node id="MATH141" />
+    <node id="MATH171" />
+    <node id="ECON230" />
+    <node id="STAT213" />
+    <node id="STAT203" />
+    <node id="DCSC262" />
+    <node id="141" />
+    <node id="207" />
+    <node id="230" />
+    <node id="213" />
+    <node id="203" />
+    <node id="DSC262" />
+    <node id="ECON268">
+      <data key="d0">This course studies the economics of world integration. We will explore the arguments for and against opening an economy to international trade in goods and financial capital. We will specifically focus on the implications of openness for welfare, growth, volatility, and inequality. The course will include economic theory as well as several applications. Applications include the growth miracles of East Asia, Indias recent transformation, emerging market crises of the 1900s, aid and development in Africa, and the impact of trade on wages in the United States. Prerequisite is ECON 108</data>
+    </node>
+    <node id="ECON289W">
+      <data key="d0">This course will guide students through the process of formulating economic hypotheses, gathering the appropriate empirical data, cleaning and analyzing the data with descriptive and econometric tools using statistical software, and effectively communicating research findings in writing and presentations.Prerequisites: ECON 207, ECON 231W </data>
+    </node>
+    <node id="EESC251">
+      <data key="d0">This course combines lectures and hands-on weekly labs, to introduce students to Geographic Information Systems (GIS) tools and concepts. Using both commercial (ArcGIS) and open source software (QGIS, OpenLayers), we will cover: GIS data structures, map projections, collecting and creating GIS data, map making, exploring spatial patterns and data visualization. Topics will be framed using examples across disciplines (e.g. physical sciences, humanities and social sciences). At the end of the semester, students will complete a final project, in which they can apply their learning to their own major area of study. Despite the technical nature of this course, no prerequisites are required and material is appropriate for all students. Student learning will be assessed throughout the semester via class participation, a mid-term exam and the final project.</data>
+    </node>
+    <node id="EHUM239">
+      <data key="d0">An examination of international environmental law and policy with a special focus on efforts to address climate change, including the Paris Agreement under the UN Framework Convention on Climate Change. This course serves as a companion to PSC 246, but PSC 246 is not a prerequisite. The goal of this course is to provide a foundational understanding of this rapidly developing, controversial field. Topics include consideration of the scientific, political, and economic drivers of international environmental law; the variety of tools (e.g., treaties, agreements, soft law,? voluntary incentive programs and market based approaches); and examples of how some international environmental issues have been addressed to date, including efforts to date on climate change. This course will be taught through lectures, discussion, several concise papers, and a group project.</data>
+    </node>
+    <node id="ENGL114">
+      <data key="d0">This course introduces students to some of the most significant literature from the Romantic, Victorian, and Modern literary periods. Beginning with the outbreak of the French Revolution and ending with World War I, the years covered by this course represent a time of dramatic political, economic, and cultural change. The nineteenth century witnessed the rise of industrialism, rapid imperialist expansion, religious crisis, increasing democracy, and shifts in gender and class identity. In exploring this tumultuous time period, the course will focus on an array of novelists, poets, and essayists who will serve as touchstones for the key political, intellectual, and aesthetic problems of their times (e.g. Blake, Wordsworth, Keats, Brontë, Browning, Ruskin, Yeats, and Woolf). Students will not only gain a greater appreciation for individual authors, but they will also be able to situate them within a larger framework of ideas and historical currents. No prerequisites. </data>
+    </node>
+    <node id="ENGL136">
+      <data key="d0">While the term “copyediting” may be associated with journalism or literary fiction, in fact it is a vital component of the publication of almost any textual materials—from scholarly and popular publishing in arts and sciences to corporate and technical communications. So what do copy editors do? Is copyediting simply about enforcing rules of correctness? When is it okay to break those rules, or to allow others to do so, and what guides such decisions? How do copy editors understand and negotiate the relationships and interests of readers, writers, and the publications they work for? How has the information age changed the way copy editors think about and approach textual editing? In this class we will address both the principles and practices of copyediting. Students will learn the principles that guide copy editors, and then put these principles into use in a workshop setting, practicing copyediting in a variety of contexts, including digital communications.Prerequisite: Completion of the Primary Writing Requirement. </data>
+    </node>
+    <node id="ENGL181">
+      <data key="d0">Living through possibly the most vocally assertive moment in our world’s most recent history, we find ourselves poised for unprecedented change. How is our newly found articulation being employed for the greatest good? Explore the voices resonating through the current performance ecosystem that includes hip hop, spoken word, slam poetry and more while developing your own to lend to the spoken revolution. For all levels of theatre experience. Let’s make some noise! (Especially complimentary to ENGL182 Staging Revolution: Creating Theatre for Social Change. Not a prerequisite.)</data>
+    </node>
+    <node id="ENGL201">
+      <data key="d0">At the end of the 5th century, after Roman occupation of Britain had ended, invaders from coastal Germany and the Netherlands settled in England and displaced the  Celtic-speaking population. The language these tribes spoke and wrote gives us the oldest witnesses of perhaps the most influential and widely-spoken language in the world today: English. In this class, we will learn to read the earliest records of English (c. 700-1100) by studying the grammar, vocabulary, and poetics of the period. We will explore the variety of surviving Old English texts - elegies, heroic epic, riddles, religious verse, Latin philosophy (translated in prose and verse), Biblical translation, sermons, charms, maxims, and more - as well as the history of book production during the period. By the end of the term, your new facility in Old English will enable you to read, understand, and translate some of the most beautiful poems ever written. No prerequisites for the course; as pre-1800 as you can get. </data>
+    </node>
+    <node id="ENGL288">
+      <data key="d0">The purpose of writing in a digital world is to engage with a broader community around a topic of interest and contribute to public knowledge. In this course, students are invited to dig deeply into a question of interest, write for a public audience, and use the Internet as an archive of information waiting to be discovered, analyzed, and written about. Students can draw on pre-existing research interests from their majors or develop a line of inquiry stemming from class discussions, writing, and research. In order to gain experience writing to a range of readers, students will engage in a writing process informed by peer review, self-assessment, and revision. Shorter writing assignments will help students develop and refine ideas as they transform texts for different audiences. The final research project will be multimodal, published for a public audience, and should demonstrate your ability to think critically about a topic and effectively communicate that knowledge to a range of readers.Prerequisite: Completion of the Primary Writing Requirement.</data>
+    </node>
+    <node id="ENGL401">
+      <data key="d0">At the end of the 5th century, after Roman occupation of Britain had ended, invaders from coastal Germany and the Netherlands settled in England and displaced the  Celtic-speaking population. The language these tribes spoke and wrote gives us the oldest witnesses of perhaps the most influential and widely-spoken language in the world today: English. In this class, we will learn to read the earliest records of English (c. 700-1100) by studying the grammar, vocabulary, and poetics of the period. We will explore the variety of surviving Old English texts - elegies, heroic epic, riddles, religious verse, Latin philosophy (translated in prose and verse), Biblical translation, sermons, charms, maxims, and more - as well as the history of book production during the period. By the end of the term, your new facility in Old English will enable you to read, understand, and translate some of the most beautiful poems ever written. No prerequisites for the course; as pre-1800 as you can get. </data>
+    </node>
+    <node id="FREN212">
+      <data key="d0">Course offers extensive practice in textual analysis and translation of selected literary texts from French to English. Mainly contemporary, all selected texts have originally been written in French, come from various cultural backgrounds and address different stylistic levels. Theoretical approaches to translation with focus on literature will be discussed, and exercises on grammar and syntax review from English to French will also be introduced. Open Pedagogy approach and workshop-based classwork.  Prerequisite: FREN 200 or instructor permission</data>
+    </node>
+    <node id="FREN200" />
+    <node id="FREN296">
+      <data key="d0">This course examines philosophical approaches to music (broadly defined) and thus lies at the frontiers of music theory, philosophical aesthetics, and philosophy of art. Themes to be explored include the ontology of music, performance theory, the problem of musical representation, musical semiotics, phenomenology of music, music and aesthetic value, and musical affect theory. Theoreticians and philosophers studied include classic (Hanslick, Gurney), as well as twentieth-century (Adorno, Jankélévitch) and contemporary (Peter Kivy, Stephen Davies, Lydia Goehr, Jean-Jacques Nattiez) authors. No prerequisites, but students must be able to read music notation to take this course. Conducted in English.</data>
+    </node>
+    <node id="FREN412">
+      <data key="d0">Course offers extensive practice in textual analysis and translation of selected literary texts from French to English. Mainly contemporary, all selected texts have originally been written in French, come from various cultural backgrounds and address different stylistic levels. Theoretical approaches to translation with focus on literature will be discussed, and exercises on grammar and syntax review from English to French will also be introduced. Open Pedagogy approach and workshop-based classwork. Prerequisite: FREN 200 or instructor permission.</data>
+    </node>
+    <node id="FREN496">
+      <data key="d0">This course examines philosophical approaches to music (broadly defined) and thus lies at the frontiers of music theory, philosophical aesthetics, and philosophy of art. Themes to be explored include the ontology of music, performance theory, the problem of musical representation, musical semiotics, phenomenology of music, music and aesthetic value, and musical affect theory. Theoreticians and philosophers studied include classic (Hanslick, Gurney), as well as twentieth-century (Adorno, Jankélévitch) and contemporary (Peter Kivy, Stephen Davies, Lydia Goehr, Jean-Jacques Nattiez) authors. No prerequisites, but students must be able to read music notation to take this course. Conducted in English.</data>
+    </node>
+    <node id="GRMN217">
+      <data key="d0">This course explores the life and times of Hildegard of Bingen (1098–1179), who was a noted theologian, a major composer and poet, a leader in early scientific and medical writing, the creator of an imaginary language and a new alphabet, a figure in the political life of the twelfth century and the rise of German nationalism in the nineteenth, a possible artist of astonishing iconography, and the only musician to be recognized as both a saint and a Doctor of the Church by the Catholic Church.  The class will examine her many remarkable creations in multiple areas in the context of twelfth-century German history and culture, her reception throughout the more than 800 years since her death, and her role today in popular culture.   No prerequisites.  4 credits. </data>
+    </node>
+    <node id="GSWS209">
+      <data key="d0">Survey course on understanding sexuality. Includes such topics as biological sexual differentiation, gender role, gender-linked social behaviors, reproduction issues, intimacy, and the role of social and personal factors in psychosexual development.This is a social science course.Prerequisite: PSYC 101</data>
+    </node>
+    <edge source="DANC181" target="AAAS184" />
+    <edge source="DANC182" target="AAAS184" />
+    <edge source="DANC283" target="AAAS184" />
+    <edge source="DANC283" target="AAAS327" />
+    <edge source="DANC283" target="DANC365A" />
+    <edge source="DANC253" target="AAAS184" />
+    <edge source="DANC253" target="AAAS327" />
+    <edge source="DANC253" target="DANC365A" />
+    <edge source="DANC285" target="AAAS184" />
+    <edge source="DANC285" target="AAAS327" />
+    <edge source="DANC285" target="DANC365A" />
+    <edge source="MUSC168A" target="AAAS184" />
+    <edge source="MUSC168A" target="AAAS327" />
+    <edge source="MUSC168A" target="DANC365A" />
+    <edge source="MUSC168B" target="AAAS184" />
+    <edge source="MUSC168B" target="AAAS327" />
+    <edge source="MUSC168B" target="DANC365A" />
+    <edge source="MUSC146" target="AAAS184" />
+    <edge source="MUSC146" target="AAAS327" />
+    <edge source="MUSC146" target="DANC365A" />
+    <edge source="SPAN200" target="AAAS208" />
+    <edge source="DANC 181" target="AAAS327" />
+    <edge source="DANC 181" target="DANC365A" />
+    <edge source="DANC 182" target="AAAS327" />
+    <edge source="DANC 182" target="DANC365A" />
+    <edge source="ANT101" target="ANTH204" />
+    <edge source="ANTH200" target="ANTH315" />
+    <edge source="ASLA106" target="ASLA209" />
+    <edge source="ASLA106" target="ASLA250" />
+    <edge source="ASLA105" target="ASLA106" />
+    <edge source="ASL106" target="ASLA200" />
+    <edge source="ASL106" target="ASLA205" />
+    <edge source="ASL106" target="BCSC264" />
+    <edge source="ASL106" target="BCSC564" />
+    <edge source="ASL113" target="ASLA205" />
+    <edge source="ASL201" target="ASLA205" />
+    <edge source="ASL202" target="ASLA205" />
+    <edge source="AME194" target="AME197" />
+    <edge source="AME194" target="ECE473" />
+    <edge source="AME193" target="AME194" />
+    <edge source="AME193" target="AME197" />
+    <edge source="AME193" target="ECE473" />
+    <edge source="MTH165" target="AME233" />
+    <edge source="MTH165" target="ASTR142" />
+    <edge source="MTH165" target="CSC240" />
+    <edge source="MTH165" target="CSC402" />
+    <edge source="MTH165" target="ECE210" />
+    <edge source="MTH165" target="ECE233" />
+    <edge source="MTH165" target="ECE442" />
+    <edge source="PHY121" target="AME233" />
+    <edge source="PHY121" target="ASTR142" />
+    <edge source="PHY121" target="ECE233" />
+    <edge source="ECE114" target="AME262" />
+    <edge source="ECE114" target="ECE472" />
+    <edge source="ECE114" target="ECE475" />
+    <edge source="PHY141" target="ASTR142" />
+    <edge source="PHY143" target="ASTR142" />
+    <edge source="PHY123" target="ASTR142" />
+    <edge source="MTH161" target="ASTR142" />
+    <edge source="MTH161" target="BIOL263" />
+    <edge source="MTH161" target="BIOL463" />
+    <edge source="MTH161" target="CSC240" />
+    <edge source="MTH171" target="ASTR142" />
+    <edge source="MTH171" target="ECE112" />
+    <edge source="MTH174" target="ASTR142" />
+    <edge source="AST111" target="ASTR142" />
+    <edge source="AST111" target="ASTR243" />
+    <edge source="PHY237" target="ASTR243" />
+    <edge source="PHY237" target="ECE436" />
+    <edge source="AST142" target="ASTR243" />
+    <edge source="BCSC110" target="BCSC221" />
+    <edge source="BCSC110" target="BCSC278" />
+    <edge source="BCSC111" target="BCSC221" />
+    <edge source="BCSC153" target="BCSC204" />
+    <edge source="BCSC153" target="BCSC208" />
+    <edge source="BCSC153" target="CVSC208" />
+    <edge source="BCS111" target="BCSC153" />
+    <edge source="BCS110" target="BCSC153" />
+    <edge source="PSYC101" target="BCSC185" />
+    <edge source="PSYC101" target="BCSC278" />
+    <edge source="PSYC101" target="GSWS209" />
+    <edge source="NSCI201" target="BCSC203" />
+    <edge source="NSCI201" target="BCSC244" />
+    <edge source="NSCI201" target="BCSC246" />
+    <edge source="NSCI201" target="BCSC249" />
+    <edge source="NSCI201" target="BCSC250" />
+    <edge source="NSCI201" target="BCSC546" />
+    <edge source="BCSC240" target="BCSC203" />
+    <edge source="BCSC240" target="BCSC244" />
+    <edge source="BCSC240" target="BCSC246" />
+    <edge source="BCSC240" target="BCSC249" />
+    <edge source="BCSC240" target="BCSC250" />
+    <edge source="BCSC240" target="BCSC546" />
+    <edge source="STAT212" target="BCSC203" />
+    <edge source="STAT212" target="BCSC204" />
+    <edge source="STAT212" target="BCSC208" />
+    <edge source="STAT212" target="CVSC208" />
+    <edge source="BCSC151" target="BCSC208" />
+    <edge source="BCSC151" target="CVSC208" />
+    <edge source="MATH150" target="BCSC232" />
+    <edge source="MATH150" target="CSC172" />
+    <edge source="MATH150" target="CSC280" />
+    <edge source="MATH150" target="CSC282" />
+    <edge source="CSC172" target="BCSC232" />
+    <edge source="CSC172" target="CSC173" />
+    <edge source="CSC172" target="CSC210" />
+    <edge source="CSC172" target="CSC214" />
+    <edge source="CSC172" target="CSC240" />
+    <edge source="CSC172" target="CSC242" />
+    <edge source="CSC172" target="CSC252" />
+    <edge source="CSC172" target="CSC261" />
+    <edge source="CSC172" target="CSC282" />
+    <edge source="CSC172" target="CSC482" />
+    <edge source="CSC172" target="DSCC240" />
+    <edge source="CSC172" target="DSCC242" />
+    <edge source="CSC172" target="DSCC261" />
+    <edge source="CSC173" target="BCSC232" />
+    <edge source="CSC173" target="CSC242" />
+    <edge source="CSC173" target="CSC261" />
+    <edge source="CSC173" target="CSC280" />
+    <edge source="CSC173" target="CSC480" />
+    <edge source="CSC173" target="DSCC242" />
+    <edge source="CSC173" target="DSCC261" />
+    <edge source="CSC173" target="DSCC263" />
+    <edge source="CSC242" target="BCSC235" />
+    <edge source="CSC242" target="BCSC236" />
+    <edge source="CSC242" target="BCSC435" />
+    <edge source="CSC242" target="BCSC536" />
+    <edge source="CSC242" target="CSC240" />
+    <edge source="CSC242" target="CSC246" />
+    <edge source="CSC242" target="CSC247" />
+    <edge source="CSC242" target="CSC249" />
+    <edge source="CSC242" target="CSC260" />
+    <edge source="CSC242" target="CSC446" />
+    <edge source="CSC242" target="CSC447" />
+    <edge source="CSC242" target="CSC449" />
+    <edge source="CSC242" target="CSC460" />
+    <edge source="CSC242" target="DSCC240" />
+    <edge source="CSC242" target="ECE409" />
+    <edge source="CSC242" target="ECE449" />
+    <edge source="MATH161" target="BCSC236" />
+    <edge source="MATH161" target="BCSC536" />
+    <edge source="MATH161" target="BME245" />
+    <edge source="MATH161" target="CSC249" />
+    <edge source="MATH161" target="CSC449" />
+    <edge source="MATH161" target="DSCC240" />
+    <edge source="MATH161" target="ECE449" />
+    <edge source="MATH161" target="ECON231W" />
+    <edge source="MATH165" target="BCSC236" />
+    <edge source="MATH165" target="BCSC536" />
+    <edge source="MATH165" target="BME210" />
+    <edge source="MATH165" target="CSC246" />
+    <edge source="MATH165" target="CSC249" />
+    <edge source="MATH165" target="CSC446" />
+    <edge source="MATH165" target="CSC449" />
+    <edge source="MATH165" target="DSCC240" />
+    <edge source="MATH165" target="ECE208" />
+    <edge source="MATH165" target="ECE408" />
+    <edge source="MATH165" target="ECE409" />
+    <edge source="MATH165" target="ECE449" />
+    <edge source="BIOL110" target="BCSC252" />
+    <edge source="BIOL110" target="BIOL250" />
+    <edge source="BIOL110" target="BIOL252" />
+    <edge source="BIOL110" target="BME245" />
+    <edge source="BIOL110" target="BME258" />
+    <edge source="BCSC247" target="BCSC257" />
+    <edge source="MUR101" target="BCSC260" />
+    <edge source="MUR110" target="BCSC260" />
+    <edge source="MUR111" target="BCSC260" />
+    <edge source="TH101" target="BCSC260" />
+    <edge source="BCSC547" target="BCSC557" />
+    <edge source="ECE410" target="BCSC571" />
+    <edge source="ECE410" target="BME413" />
+    <edge source="ECE410" target="CSC414" />
+    <edge source="ECE410" target="CVSC535" />
+    <edge source="ECE410" target="ECE411" />
+    <edge source="OPT410" target="BCSC571" />
+    <edge source="OPT410" target="BME413" />
+    <edge source="OPT410" target="CSC414" />
+    <edge source="OPT410" target="CVSC535" />
+    <edge source="OPT410" target="ECE411" />
+    <edge source="BME410" target="BCSC571" />
+    <edge source="BME410" target="BME413" />
+    <edge source="BME410" target="CSC414" />
+    <edge source="BME410" target="CVSC535" />
+    <edge source="BME410" target="ECE411" />
+    <edge source="NSCI415" target="BCSC571" />
+    <edge source="NSCI415" target="BME413" />
+    <edge source="NSCI415" target="CSC414" />
+    <edge source="NSCI415" target="CVSC535" />
+    <edge source="NSCI415" target="ECE411" />
+    <edge source="CSC413" target="BCSC571" />
+    <edge source="CSC413" target="BME413" />
+    <edge source="CSC413" target="CSC414" />
+    <edge source="CSC413" target="CVSC535" />
+    <edge source="CSC413" target="ECE411" />
+    <edge source="CHM131" target="BIOL110" />
+    <edge source="CHM131" target="CHEM252" />
+    <edge source="CHM131" target="CHEM442" />
+    <edge source="BIOL205" target="BIOL205W" />
+    <edge source="BIO190" target="BIOL205" />
+    <edge source="BIO190" target="BIOL210" />
+    <edge source="BIO190" target="BIOL219L" />
+    <edge source="BIO190" target="BIOL268" />
+    <edge source="BIO190" target="BIOL278" />
+    <edge source="BIO190" target="BIOL405" />
+    <edge source="BIO190" target="BIOL419L" />
+    <edge source="BIO190" target="BIOL468" />
+    <edge source="BIO190" target="BIOL478" />
+    <edge source="BIO198" target="BIOL205" />
+    <edge source="BIO198" target="BIOL210" />
+    <edge source="BIO198" target="BIOL243" />
+    <edge source="BIO198" target="BIOL268" />
+    <edge source="BIO198" target="BIOL278" />
+    <edge source="BIO198" target="BIOL405" />
+    <edge source="BIO198" target="BIOL443" />
+    <edge source="BIO198" target="BIOL468" />
+    <edge source="BIO198" target="BIOL478" />
+    <edge source="BIOL210" target="BME262" />
+    <edge source="BIO110" target="BIOL210" />
+    <edge source="BIO110" target="BIOL217L" />
+    <edge source="BIO112" target="BIOL210" />
+    <edge source="BIO112" target="BIOL217L" />
+    <edge source="BIO111" target="BIOL210" />
+    <edge source="BIO111" target="BIOL217L" />
+    <edge source="BIO111" target="BIOL463" />
+    <edge source="BIO113" target="BIOL210" />
+    <edge source="BIO113" target="BIOL217L" />
+    <edge source="BIO113" target="BIOL463" />
+    <edge source="BIO250" target="BIOL210" />
+    <edge source="BIO250" target="BIOL243" />
+    <edge source="BIO250" target="BIOL268" />
+    <edge source="BIO250" target="BIOL443" />
+    <edge source="BIO250" target="BIOL468" />
+    <edge source="OR198" target="BIOL219L" />
+    <edge source="OR198" target="BIOL419L" />
+    <edge source="BIO214" target="BIOL219L" />
+    <edge source="BIO214" target="BIOL419L" />
+    <edge source="250H" target="BIOL243" />
+    <edge source="250H" target="BIOL443" />
+    <edge source="BIOL250" target="BIOL268" />
+    <edge source="BIOL112" target="BIOL250" />
+    <edge source="BIOL112" target="BIOL252" />
+    <edge source="BIOL190" target="BIOL250" />
+    <edge source="BIOL190" target="BIOL252" />
+    <edge source="BIOL190" target="BIOL268" />
+    <edge source="BIOL198" target="BIOL250" />
+    <edge source="BIOL198" target="BIOL252" />
+    <edge source="BIOL198" target="BIOL268" />
+    <edge source="CHEM204" target="BIOL250" />
+    <edge source="CHEM204" target="BIOL252" />
+    <edge source="CHEM204" target="CHEM208" />
+    <edge source="CHEM203" target="BIOL252" />
+    <edge source="CHEM203" target="CHEM262" />
+    <edge source="CHEM203" target="CHEM462" />
+    <edge source="CHEM172" target="BIOL252" />
+    <edge source="CHEM172" target="CHEM208" />
+    <edge source="BIOL263" target="BIOL263W" />
+    <edge source="BIOL110L" target="BIOL263" />
+    <edge source="112L" target="BIOL263" />
+    <edge source="BIOL111L" target="BIOL263" />
+    <edge source="OR113L" target="BIOL263" />
+    <edge source="MTH142" target="BIOL263" />
+    <edge source="MTH142" target="BIOL463" />
+    <edge source="BIO250L" target="BIOL278" />
+    <edge source="BIO250L" target="BIOL478" />
+    <edge source="CHM204" target="BIOL278" />
+    <edge source="CHM204" target="BIOL478" />
+    <edge source="PHYS122" target="BME210" />
+    <edge source="PHYS122" target="BME245" />
+    <edge source="PHYS122" target="BME270" />
+    <edge source="MATH162" target="BME210" />
+    <edge source="MATH162" target="BME245" />
+    <edge source="BME201P" target="BME210" />
+    <edge source="BME201P" target="BME221" />
+    <edge source="ME225" target="BME212" />
+    <edge source="ME225" target="BME412" />
+    <edge source="ME225" target="BME462" />
+    <edge source="CHE243" target="BME212" />
+    <edge source="CHE243" target="BME412" />
+    <edge source="CHE243" target="BME462" />
+    <edge source="ME226" target="BME212" />
+    <edge source="ME226" target="BME412" />
+    <edge source="BME201" target="BME212" />
+    <edge source="BME201" target="BME221" />
+    <edge source="BME201" target="BME412" />
+    <edge source="CHEM131" target="BME245" />
+    <edge source="CHEM131" target="CHEM132" />
+    <edge source="CHEM132" target="BME245" />
+    <edge source="PHYS121" target="BME245" />
+    <edge source="BME260" target="BME262" />
+    <edge source="BME260" target="BME296" />
+    <edge source="BME260" target="BME462" />
+    <edge source="CHE225" target="BME262" />
+    <edge source="CHE225" target="BME462" />
+    <edge source="ME123" target="BME262" />
+    <edge source="ME123" target="BME462" />
+    <edge source="CHE244" target="BME262" />
+    <edge source="CHE244" target="BME462" />
+    <edge source="BME211" target="BME262" />
+    <edge source="BME211" target="BME462" />
+    <edge source="BME411" target="BME262" />
+    <edge source="BME411" target="BME462" />
+    <edge source="BIOL202" target="BME262" />
+    <edge source="BME270" target="BME272" />
+    <edge source="BME270" target="BME472" />
+    <edge source="OPT261" target="BME272" />
+    <edge source="OPT261" target="BME472" />
+    <edge source="BME295" target="BME296" />
+    <edge source="BIO202" target="BME462" />
+    <edge source="BIO210" target="BME462" />
+    <edge source="CHEM171" target="CHEM172" />
+    <edge source="CHEM173" target="CHEM172" />
+    <edge source="CHEM173" target="CHEM208" />
+    <edge source="CHEM173" target="CHEM210W" />
+    <edge source="CHM203" target="CHEM204" />
+    <edge source="CHEM207" target="CHEM208" />
+    <edge source="CHEM207" target="CHEM210W" />
+    <edge source="CHM208" target="CHEM208" />
+    <edge source="CHEM251" target="CHEM232W" />
+    <edge source="CHEM251" target="CHEM456" />
+    <edge source="CHEM211" target="CHEM234" />
+    <edge source="CHEM211" target="CHEM234W" />
+    <edge source="CHEM211" target="CHEM446" />
+    <edge source="CHEM252" target="CHEM446" />
+    <edge source="CHM132" target="CHEM252" />
+    <edge source="CHM132" target="CHEM442" />
+    <edge source="PHY113" target="CHEM252" />
+    <edge source="PHY113" target="CHEM442" />
+    <edge source="MTH143" target="CHEM252" />
+    <edge source="MTH143" target="CHEM442" />
+    <edge source="CHEM171Q" target="CHEM262" />
+    <edge source="CHEM171Q" target="CHEM462" />
+    <edge source="CHEM421" target="CHEM422" />
+    <edge source="CHEM421" target="CHEM436" />
+    <edge source="CHM451" target="CHEM452" />
+    <edge source="CLTR200" target="CLTR389" />
+    <edge source="CSC171" target="CSC172" />
+    <edge source="CSC171" target="CSC240" />
+    <edge source="CSC171" target="DSCC240" />
+    <edge source="CSC171" target="ECE200" />
+    <edge source="MTH150" target="CSC173" />
+    <edge source="MTH150" target="CSC242" />
+    <edge source="MTH150" target="CSC252" />
+    <edge source="MTH150" target="CSC480" />
+    <edge source="MTH150" target="CSC482" />
+    <edge source="MTH150" target="DSCC242" />
+    <edge source="CSC 172" target="CSC211" />
+    <edge source="CSC 214" target="CSC211" />
+    <edge source="CSC262" target="CSC240" />
+    <edge source="CSC262" target="DSCC240" />
+    <edge source="CSC241" target="CSC243" />
+    <edge source="CSC241" target="CSC443" />
+    <edge source="MATH164" target="CSC246" />
+    <edge source="MATH164" target="CSC446" />
+    <edge source="MATH164" target="ECE409" />
+    <edge source="LING110" target="CSC250" />
+    <edge source="LING210" target="CSC250" />
+    <edge source="LING220" target="CSC250" />
+    <edge source="LING225" target="CSC250" />
+    <edge source="CSC252" target="CSC255" />
+    <edge source="CSC252" target="CSC258" />
+    <edge source="CSC252" target="CSC261" />
+    <edge source="CSC252" target="CSC263" />
+    <edge source="CSC252" target="CSC278" />
+    <edge source="CSC252" target="CSC404" />
+    <edge source="CSC252" target="CSC478" />
+    <edge source="CSC252" target="DSCC261" />
+    <edge source="CSC252" target="DSCC263" />
+    <edge source="CSC252" target="ECE455" />
+    <edge source="CSC254" target="CSC255" />
+    <edge source="CSC254" target="CSC258" />
+    <edge source="CSC254" target="ECE455" />
+    <edge source="CSC256" target="CSC258" />
+    <edge source="CSC261" target="CSC263" />
+    <edge source="CSC261" target="DSCC263" />
+    <edge source="SC173" target="CSC263" />
+    <edge source="CSC452" target="CSC278" />
+    <edge source="CSC452" target="CSC478" />
+    <edge source="ECE200" target="CSC278" />
+    <edge source="ECE200" target="CSC478" />
+    <edge source="CSC280" target="CSC286" />
+    <edge source="CSC280" target="CSC486" />
+    <edge source="MATH172" target="CSC282" />
+    <edge source="MTH164" target="CSC402" />
+    <edge source="MTH164" target="ECE233" />
+    <edge source="MTH164" target="ECE442" />
+    <edge source="E200" target="CSC404" />
+    <edge source="CSC441" target="CSC443" />
+    <edge source="MTH172" target="CSC482" />
+    <edge source="DANC268" target="DANC269" />
+    <edge source="DANC252" target="DANC269" />
+    <edge source="DANC365" target="DANC365B" />
+    <edge source="DANC365" target="DANC365C" />
+    <edge source="DMST372" target="DMST373" />
+    <edge source="ECE112" target="ECE200" />
+    <edge source="MTH162" target="ECE112" />
+    <edge source="MTH141" target="ECE112" />
+    <edge source="CE114" target="ECE200" />
+    <edge source="114" target="ECE208" />
+    <edge source="114" target="ECE408" />
+    <edge source="ECE270" target="ECE208" />
+    <edge source="ECE270" target="ECE408" />
+    <edge source="PHY122" target="ECE210" />
+    <edge source="ECE221" target="ECE222" />
+    <edge source="CE230" target="ECE436" />
+    <edge source="CE235" target="ECE436" />
+    <edge source="CE435" target="ECE436" />
+    <edge source="OPT262" target="ECE436" />
+    <edge source="OPT462" target="ECE436" />
+    <edge source="OPT468" target="ECE436" />
+    <edge source="OPT223" target="ECE436" />
+    <edge source="OPT412" target="ECE436" />
+    <edge source="PHY407" target="ECE436" />
+    <edge source="ECE241" target="ECE472" />
+    <edge source="ME295" target="ECE480" />
+    <edge source="AME483" target="ECE492" />
+    <edge source="ECON207" target="ECON209" />
+    <edge source="ECON207" target="ECON231W" />
+    <edge source="ECON207" target="ECON289W" />
+    <edge source="ECON108" target="ECON207" />
+    <edge source="ECON108" target="ECON268" />
+    <edge source="ECON214" target="ECON214" />
+    <edge source="ECON214" target="ECON214W" />
+    <edge source="ACC201" target="ECON214" />
+    <edge source="ACC201" target="ECON214W" />
+    <edge source="MKT203" target="ECON214" />
+    <edge source="MKT203" target="ECON214W" />
+    <edge source="FIN204" target="ECON214" />
+    <edge source="FIN204" target="ECON214W" />
+    <edge source="ECON214W" target="ECON214" />
+    <edge source="ECON214W" target="ECON214W" />
+    <edge source="STR203" target="ECON214" />
+    <edge source="STR203" target="ECON214W" />
+    <edge source="ECON231W" target="ECON289W" />
+    <edge source="MATH141" target="ECON231W" />
+    <edge source="MATH171" target="ECON231W" />
+    <edge source="ECON230" target="ECON231W" />
+    <edge source="STAT213" target="ECON231W" />
+    <edge source="STAT203" target="ECON231W" />
+    <edge source="DCSC262" target="ECON231W" />
+    <edge source="141" target="ECON231W" />
+    <edge source="207" target="ECON231W" />
+    <edge source="230" target="ECON231W" />
+    <edge source="213" target="ECON231W" />
+    <edge source="203" target="ECON231W" />
+    <edge source="DSC262" target="ECON231W" />
+    <edge source="FREN200" target="FREN212" />
+    <edge source="FREN200" target="FREN412" />
+  </graph>
+</graphml>
