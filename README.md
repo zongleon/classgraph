@@ -18,16 +18,20 @@ Modelling relationships between classes at the University of Rochester
   
 ## Info on files, etc.
 - Files with D- are ~~deprecated~~
+
 Files:
 - **get_classes** scrapes cdcs
 - **parse_classes_into_graph** uses the first idea with regex parsers
 - **parse_data** cleans and organizes useful data for lm training
 - **train.ipynb** is a python notebook for training the LM (training done in google colab)
 - **classify generates** the graphs
+
 Data:
 - Contains raw and parsed data
+
 Graphs:
 - Contains raw and gephi graph files
+
 Imgs:
 - Contains connected and modularity-separated graphs
 
