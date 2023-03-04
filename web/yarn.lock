@@ -721,20 +721,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"classgraph-web@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "classgraph-web@workspace:."
-  dependencies:
-    "@types/react": ^18.0.27
-    "@types/react-dom": ^18.0.10
-    "@vitejs/plugin-react": ^3.1.0
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    typescript: ^4.9.3
-    vite: ^4.1.0
-  languageName: unknown
-  linkType: soft
-
 "clean-stack@npm:^2.0.0":
   version: 2.2.0
   resolution: "clean-stack@npm:2.2.0"
@@ -1904,6 +1890,20 @@ __metadata:
   checksum: 50a9a1f2e29e0ee8fefdec60314d38fb9b746df0bb6ae5a8114014b5bfd95e0fc9b29c0d5e73939361ba53af7eb66c7d20c5656bbe53a783e96540bd3b907c47
   languageName: node
   linkType: hard
+
+"web@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "web@workspace:."
+  dependencies:
+    "@types/react": ^18.0.27
+    "@types/react-dom": ^18.0.10
+    "@vitejs/plugin-react": ^3.1.0
+    react: ^18.2.0
+    react-dom: ^18.2.0
+    typescript: ^4.9.3
+    vite: ^4.1.0
+  languageName: unknown
+  linkType: soft
 
 "which@npm:^2.0.2":
   version: 2.0.2
