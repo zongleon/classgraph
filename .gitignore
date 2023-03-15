@@ -3,7 +3,6 @@ data/*.html
 
 # Editor directories and files
 .vscode/*
-!.vscode/extensions.json
 .idea
 .DS_Store
 *.suo
@@ -11,4 +10,3 @@ data/*.html
 *.njsproj
 *.sln
 *.sw?
-.vscode/extensions.json

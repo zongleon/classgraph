@@ -9,8 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-sigma/core": "^3.3.0",
+    "@react-sigma/layout-core": "^3.3.0",
+    "@react-sigma/layout-forceatlas2": "^3.3.0",
+    "graphology": "^0.25.1",
+    "graphology-graphml": "^0.5.2",
+    "graphology-types": "^0.24.7",
+    "lodash": "^4.17.21",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sigma": "^2.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
